@@ -801,7 +801,7 @@ def update_figure(value_año, tipo):
                 score_s=list(data[data.empresas==empresa].score_cualitativo)[0]
                 scores.append(score_s)
                 try:
-                    porc_s=list(data_inf[data_inf.empresa==empresa]['%_informadas_cualitativo'])[0]
+                    porc_s=list(data_inf[data_inf.empresa==empresa]['%_informadas_cualitativas'])[0]
                     porc.append(porc_s)
                 except:
                     porc.append(0)
