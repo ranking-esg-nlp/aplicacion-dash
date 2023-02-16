@@ -1,0 +1,1637 @@
+﻿variable;empresa;año;valor;tipo
+external_audit;Cellnex;2020;1;cualitativo
+2030_commitment;Cellnex;2020;1;cualitativo
+biodiversity_commitment;Cellnex;2020;1;cualitativo
+climate_strategy;Cellnex;2020;0;cualitativo
+recognized_env_standard;Cellnex;2020;1;cualitativo
+energy_management;Cellnex;2020;1;cualitativo
+external_audit;Acerinox;2017;1;cualitativo
+2030_commitment;Acerinox;2017;0;cualitativo
+biodiversity_commitment;Acerinox;2017;0;cualitativo
+climate_strategy;Acerinox;2017;0;cualitativo
+water_management;Acerinox;2017;0;cualitativo
+recognized_env_standard;Acerinox;2017;1;cualitativo
+energy_management;Acerinox;2017;0;cualitativo
+ard_management;Acerinox;2017;1;cualitativo
+external_audit;Acerinox;2018;0;cualitativo
+2030_commitment;Acerinox;2018;0;cualitativo
+biodiversity_commitment;Acerinox;2018;0;cualitativo
+climate_strategy;Acerinox;2018;0;cualitativo
+water_management;Acerinox;2018;0;cualitativo
+recognized_env_standard;Acerinox;2018;1;cualitativo
+energy_management;Acerinox;2018;0;cualitativo
+ard_management;Acerinox;2018;0;cualitativo
+external_audit;Acerinox;2019;1;cualitativo
+2030_commitment;Acerinox;2019;0;cualitativo
+biodiversity_commitment;Acerinox;2019;0;cualitativo
+climate_strategy;Acerinox;2019;0;cualitativo
+water_management;Acerinox;2019;0;cualitativo
+recognized_env_standard;Acerinox;2019;1;cualitativo
+energy_management;Acerinox;2019;0;cualitativo
+ard_management;Acerinox;2019;0;cualitativo
+external_audit;Acerinox;2020;1;cualitativo
+2030_commitment;Acerinox;2020;1;cualitativo
+biodiversity_commitment;Acerinox;2020;0;cualitativo
+climate_strategy;Acerinox;2020;0;cualitativo
+water_management;Acerinox;2020;1;cualitativo
+recognized_env_standard;Acerinox;2020;1;cualitativo
+energy_management;Acerinox;2020;1;cualitativo
+ard_management;Acerinox;2020;0;cualitativo
+external_audit;Acerinox;2021;0;cualitativo
+2030_commitment;Acerinox;2021;1;cualitativo
+biodiversity_commitment;Acerinox;2021;1;cualitativo
+climate_strategy;Acerinox;2021;1;cualitativo
+water_management;Acerinox;2021;1;cualitativo
+recognized_env_standard;Acerinox;2021;0;cualitativo
+energy_management;Acerinox;2021;1;cualitativo
+ard_management;Acerinox;2021;0;cualitativo
+external_audit;ACS;2021;1;cualitativo
+2030_commitment;ACS;2021;1;cualitativo
+biodiversity_commitment;ACS;2021;1;cualitativo
+climate_strategy;ACS;2021;0;cualitativo
+green_buildings;ACS;2021;1;cualitativo
+recognized_env_standard;ACS;2021;1;cualitativo
+energy_management;ACS;2021;0;cualitativo
+building_materials;ACS;2021;1;cualitativo
+resource_efficiency;ACS;2021;1;cualitativo
+external_audit;ACS;2020;1;cualitativo
+2030_commitment;ACS;2020;0;cualitativo
+biodiversity_commitment;ACS;2020;1;cualitativo
+climate_strategy;ACS;2020;0;cualitativo
+green_buildings;ACS;2020;1;cualitativo
+recognized_env_standard;ACS;2020;1;cualitativo
+energy_management;ACS;2020;1;cualitativo
+building_materials;ACS;2020;0;cualitativo
+resource_efficiency;ACS;2020;1;cualitativo
+external_audit;ACS;2019;1;cualitativo
+2030_commitment;ACS;2019;1;cualitativo
+biodiversity_commitment;ACS;2019;1;cualitativo
+climate_strategy;ACS;2019;0;cualitativo
+green_buildings;ACS;2019;1;cualitativo
+recognized_env_standard;ACS;2019;1;cualitativo
+energy_management;ACS;2019;1;cualitativo
+building_materials;ACS;2019;1;cualitativo
+resource_efficiency;ACS;2019;1;cualitativo
+external_audit;ACS;2018;1;cualitativo
+2030_commitment;ACS;2018;0;cualitativo
+biodiversity_commitment;ACS;2018;1;cualitativo
+climate_strategy;ACS;2018;1;cualitativo
+green_buildings;ACS;2018;1;cualitativo
+recognized_env_standard;ACS;2018;1;cualitativo
+energy_management;ACS;2018;1;cualitativo
+building_materials;ACS;2018;1;cualitativo
+resource_efficiency;ACS;2018;1;cualitativo
+external_audit;ACS;2017;1;cualitativo
+2030_commitment;ACS;2017;0;cualitativo
+biodiversity_commitment;ACS;2017;1;cualitativo
+climate_strategy;ACS;2017;1;cualitativo
+green_buildings;ACS;2017;1;cualitativo
+recognized_env_standard;ACS;2017;1;cualitativo
+energy_management;ACS;2017;0;cualitativo
+building_materials;ACS;2017;1;cualitativo
+resource_efficiency;ACS;2017;1;cualitativo
+external_audit;IAG;2021;1;cualitativo
+2030_commitment;IAG;2021;1;cualitativo
+waste_management;IAG;2021;0;cualitativo
+biodiversity_commitment;IAG;2021;0;cualitativo
+climate_strategy;IAG;2021;1;cualitativo
+electric_vehicles;IAG;2021;0;cualitativo
+recognized_env_standard;IAG;2021;1;cualitativo
+energy_management;IAG;2021;0;cualitativo
+packaging;IAG;2021;1;cualitativo
+fleet_management;IAG;2021;1;cualitativo
+fuel_efficiency;IAG;2021;1;cualitativo
+external_audit;IAG;2020;1;cualitativo
+2030_commitment;IAG;2020;1;cualitativo
+waste_management;IAG;2020;0;cualitativo
+biodiversity_commitment;IAG;2020;0;cualitativo
+climate_strategy;IAG;2020;1;cualitativo
+electric_vehicles;IAG;2020;0;cualitativo
+recognized_env_standard;IAG;2020;1;cualitativo
+energy_management;IAG;2020;0;cualitativo
+packaging;IAG;2020;1;cualitativo
+fleet_management;IAG;2020;1;cualitativo
+fuel_efficiency;IAG;2020;1;cualitativo
+external_audit;IAG;2019;0;cualitativo
+2030_commitment;IAG;2019;1;cualitativo
+waste_management;IAG;2019;0;cualitativo
+biodiversity_commitment;IAG;2019;0;cualitativo
+climate_strategy;IAG;2019;0;cualitativo
+electric_vehicles;IAG;2019;1;cualitativo
+recognized_env_standard;IAG;2019;1;cualitativo
+energy_management;IAG;2019;0;cualitativo
+packaging;IAG;2019;1;cualitativo
+fleet_management;IAG;2019;1;cualitativo
+fuel_efficiency;IAG;2019;1;cualitativo
+external_audit;IAG;2018;1;cualitativo
+2030_commitment;IAG;2018;0;cualitativo
+waste_management;IAG;2018;0;cualitativo
+biodiversity_commitment;IAG;2018;0;cualitativo
+climate_strategy;IAG;2018;0;cualitativo
+electric_vehicles;IAG;2018;0;cualitativo
+recognized_env_standard;IAG;2018;1;cualitativo
+energy_management;IAG;2018;1;cualitativo
+packaging;IAG;2018;1;cualitativo
+fleet_management;IAG;2018;0;cualitativo
+fuel_efficiency;IAG;2018;1;cualitativo
+external_audit;IAG;2017;1;cualitativo
+2030_commitment;IAG;2017;0;cualitativo
+waste_management;IAG;2017;0;cualitativo
+biodiversity_commitment;IAG;2017;0;cualitativo
+climate_strategy;IAG;2017;0;cualitativo
+electric_vehicles;IAG;2017;1;cualitativo
+recognized_env_standard;IAG;2017;0;cualitativo
+energy_management;IAG;2017;1;cualitativo
+packaging;IAG;2017;1;cualitativo
+fleet_management;IAG;2017;1;cualitativo
+fuel_efficiency;IAG;2017;1;cualitativo
+external_audit;Melia;2018;1;cualitativo
+2030_commitment;Melia;2018;1;cualitativo
+waste_management;Melia;2018;0;cualitativo
+biodiversity_commitment;Melia;2018;0;cualitativo
+climate_strategy;Melia;2018;0;cualitativo
+recognized_env_standard;Melia;2018;1;cualitativo
+energy_management;Melia;2018;1;cualitativo
+food_loss_waste;Melia;2018;0;cualitativo
+packaging;Melia;2018;1;cualitativo
+external_audit;Melia;2017;1;cualitativo
+2030_commitment;Melia;2017;0;cualitativo
+waste_management;Melia;2017;1;cualitativo
+biodiversity_commitment;Melia;2017;0;cualitativo
+climate_strategy;Melia;2017;0;cualitativo
+recognized_env_standard;Melia;2017;1;cualitativo
+energy_management;Melia;2017;1;cualitativo
+food_loss_waste;Melia;2017;0;cualitativo
+packaging;Melia;2017;1;cualitativo
+external_audit;Bankinter;2018;0;cualitativo
+2030_commitment;Bankinter;2018;1;cualitativo
+climate_strategy;Bankinter;2018;0;cualitativo
+recognized_env_standard;Bankinter;2018;1;cualitativo
+energy_management;Bankinter;2018;1;cualitativo
+decarbonization_strategy;Bankinter;2018;1;cualitativo
+external_audit;Bankinter;2019;0;cualitativo
+2030_commitment;Bankinter;2019;1;cualitativo
+climate_strategy;Bankinter;2019;1;cualitativo
+recognized_env_standard;Bankinter;2019;0;cualitativo
+energy_management;Bankinter;2019;1;cualitativo
+decarbonization_strategy;Bankinter;2019;0;cualitativo
+external_audit;Bankinter;2020;1;cualitativo
+2030_commitment;Bankinter;2020;1;cualitativo
+climate_strategy;Bankinter;2020;1;cualitativo
+recognized_env_standard;Bankinter;2020;1;cualitativo
+energy_management;Bankinter;2020;1;cualitativo
+decarbonization_strategy;Bankinter;2020;1;cualitativo
+external_audit;Bankinter;2021;0;cualitativo
+2030_commitment;Bankinter;2021;1;cualitativo
+climate_strategy;Bankinter;2021;1;cualitativo
+recognized_env_standard;Bankinter;2021;0;cualitativo
+energy_management;Bankinter;2021;1;cualitativo
+decarbonization_strategy;Bankinter;2021;1;cualitativo
+external_audit;Endesa;2017;1;cualitativo
+2030_commitment;Endesa;2017;1;cualitativo
+biodiversity_commitment;Endesa;2017;1;cualitativo
+climate_strategy;Endesa;2017;0;cualitativo
+recognized_env_standard;Endesa;2017;1;cualitativo
+energy_management;Endesa;2017;0;cualitativo
+external_audit;Endesa;2018;0;cualitativo
+2030_commitment;Endesa;2018;1;cualitativo
+biodiversity_commitment;Endesa;2018;1;cualitativo
+climate_strategy;Endesa;2018;1;cualitativo
+recognized_env_standard;Endesa;2018;1;cualitativo
+energy_management;Endesa;2018;1;cualitativo
+external_audit;Endesa;2019;1;cualitativo
+2030_commitment;Endesa;2019;1;cualitativo
+biodiversity_commitment;Endesa;2019;1;cualitativo
+climate_strategy;Endesa;2019;1;cualitativo
+recognized_env_standard;Endesa;2019;1;cualitativo
+energy_management;Endesa;2019;1;cualitativo
+external_audit;Endesa;2020;1;cualitativo
+2030_commitment;Endesa;2020;1;cualitativo
+biodiversity_commitment;Endesa;2020;1;cualitativo
+climate_strategy;Endesa;2020;0;cualitativo
+recognized_env_standard;Endesa;2020;1;cualitativo
+energy_management;Endesa;2020;1;cualitativo
+external_audit;Endesa;2021;1;cualitativo
+2030_commitment;Endesa;2021;0;cualitativo
+biodiversity_commitment;Endesa;2021;1;cualitativo
+climate_strategy;Endesa;2021;1;cualitativo
+recognized_env_standard;Endesa;2021;1;cualitativo
+energy_management;Endesa;2021;1;cualitativo
+%_renewable_energy;Cellnex;2020;0.4;cuantitativo
+%_renewable_energy;Endesa;2021;0;cuantitativo
+%_renewable_energy;Endesa;2020;0.45;cuantitativo
+%_renewable_energy;Endesa;2019;0.55;cuantitativo
+%_renewable_energy;Endesa;2018;1;cuantitativo
+%_renewable_energy;Endesa;2017;0;cuantitativo
+%_renewable_energy;IAG;2020;0;cuantitativo
+%_recycled_waste;IAG;2020;0;cuantitativo
+%_recycled_haz_waste;IAG;2020;0;cuantitativo
+%_renewable_energy;IAG;2019;0;cuantitativo
+%_recycled_waste;IAG;2019;0;cuantitativo
+%_recycled_haz_waste;IAG;2019;0;cuantitativo
+%_renewable_energy;IAG;2018;0.02;cuantitativo
+%_recycled_waste;IAG;2018;0;cuantitativo
+%_recycled_haz_waste;IAG;2018;0;cuantitativo
+%_renewable_energy;IAG;2017;0.54;cuantitativo
+%_recycled_waste;IAG;2017;0;cuantitativo
+%_recycled_haz_waste;IAG;2017;0;cuantitativo
+%_recycled_nonhaz_waste;IAG;2020;0;cuantitativo
+%_recycled_nonhaz_waste;IAG;2019;0;cuantitativo
+%_recycled_nonhaz_waste;IAG;2018;0;cuantitativo
+%_recycled_nonhaz_waste;IAG;2017;0;cuantitativo
+%_renewable_energy;Melia;2017;0.7;cuantitativo
+%_recycled_waste;Melia;2017;0;cuantitativo
+%_recycled_haz_waste;Melia;2017;0;cuantitativo
+%_recycled_nonhaz_waste;Melia;2017;0;cuantitativo
+%_renewable_energy;Melia;2018;0;cuantitativo
+%_recycled_waste;Melia;2018;0;cuantitativo
+%_recycled_haz_waste;Melia;2018;0;cuantitativo
+%_recycled_nonhaz_waste;Melia;2018;0;cuantitativo
+%_renewable_energy;Acerinox;2017;0;cuantitativo
+%_recycled_water;Acerinox;2017;0;cuantitativo
+%_renewable_energy;Acerinox;2018;0;cuantitativo
+%_recycled_water;Acerinox;2018;0;cuantitativo
+%_renewable_energy;Acerinox;2019;0;cuantitativo
+%_recycled_water;Acerinox;2019;0;cuantitativo
+%_renewable_energy;Acerinox;2020;0;cuantitativo
+%_recycled_water;Acerinox;2020;0;cuantitativo
+%_renewable_energy;Acerinox;2021;0;cuantitativo
+%_recycled_water;Acerinox;2021;0;cuantitativo
+%_renewable_energy;ACS;2021;1;cuantitativo
+%_renewable_energy;ACS;2020;0.32;cuantitativo
+%_renewable_energy;ACS;2019;1;cuantitativo
+%_renewable_energy;ACS;2018;0;cuantitativo
+%_renewable_energy;ACS;2017;0;cuantitativo
+%_renewable_energy;Bankinter;2021;0;cuantitativo
+%_renewable_energy;Bankinter;2020;1;cuantitativo
+%_renewable_energy;Bankinter;2019;1;cuantitativo
+%_renewable_energy;Bankinter;2018;0;cuantitativo
+%_renewable_energy;Aena;2021;0;cuantitativo
+%_recycled_waste;Aena;2021;0;cuantitativo
+%_recycled_haz_waste;Aena;2021;0;cuantitativo
+%_recycled_nonhaz_waste;Aena;2021;0;cuantitativo
+%_renewable_energy;Aena;2020;0;cuantitativo
+%_recycled_waste;Aena;2020;0;cuantitativo
+%_recycled_haz_waste;Aena;2020;0;cuantitativo
+%_recycled_nonhaz_waste;Aena;2020;0;cuantitativo
+%_renewable_energy;Aena;2019;0;cuantitativo
+%_recycled_waste;Aena;2019;0;cuantitativo
+%_recycled_haz_waste;Aena;2019;0;cuantitativo
+%_recycled_nonhaz_waste;Aena;2019;0;cuantitativo
+%_renewable_energy;Aena;2018;1;cuantitativo
+%_recycled_waste;Aena;2018;0;cuantitativo
+%_recycled_haz_waste;Aena;2018;0;cuantitativo
+%_recycled_nonhaz_waste;Aena;2018;0;cuantitativo
+%_renewable_energy;Aena;2017;0;cuantitativo
+%_recycled_waste;Aena;2017;0.16;cuantitativo
+%_recycled_haz_waste;Aena;2017;0;cuantitativo
+%_recycled_nonhaz_waste;Aena;2017;0.56;cuantitativo
+external_audit;Aena;2019;1;cualitativo
+2030_commitment;Aena;2019;0;cualitativo
+waste_management;Aena;2019;1;cualitativo
+biodiversity_commitment;Aena;2019;0;cualitativo
+climate_strategy;Aena;2019;0;cualitativo
+electric_vehicles;Aena;2019;0;cualitativo
+recognized_env_standard;Aena;2019;1;cualitativo
+energy_management;Aena;2019;0;cualitativo
+packaging;Aena;2019;1;cualitativo
+fleet_management;Aena;2019;0;cualitativo
+fuel_efficiency;Aena;2019;0;cualitativo
+external_audit;Aena;2018;1;cualitativo
+2030_commitment;Aena;2018;0;cualitativo
+waste_management;Aena;2018;1;cualitativo
+biodiversity_commitment;Aena;2018;0;cualitativo
+climate_strategy;Aena;2018;0;cualitativo
+electric_vehicles;Aena;2018;1;cualitativo
+recognized_env_standard;Aena;2018;1;cualitativo
+energy_management;Aena;2018;1;cualitativo
+packaging;Aena;2018;1;cualitativo
+fleet_management;Aena;2018;0;cualitativo
+fuel_efficiency;Aena;2018;0;cualitativo
+external_audit;Aena;2017;1;cualitativo
+2030_commitment;Aena;2017;1;cualitativo
+waste_management;Aena;2017;1;cualitativo
+biodiversity_commitment;Aena;2017;0;cualitativo
+climate_strategy;Aena;2017;1;cualitativo
+electric_vehicles;Aena;2017;0;cualitativo
+recognized_env_standard;Aena;2017;1;cualitativo
+energy_management;Aena;2017;1;cualitativo
+packaging;Aena;2017;1;cualitativo
+fleet_management;Aena;2017;0;cualitativo
+fuel_efficiency;Aena;2017;0;cualitativo
+external_audit;Amadeus;2021;1;cualitativo
+2030_commitment;Amadeus;2021;1;cualitativo
+climate_strategy;Amadeus;2021;0;cualitativo
+recognized_env_standard;Amadeus;2021;0;cualitativo
+circular_economy;Amadeus;2021;1;cualitativo
+energy_management;Amadeus;2021;1;cualitativo
+product_stewardship;Amadeus;2021;0;cualitativo
+%_renewable_energy;Amadeus;2021;0;cuantitativo
+external_audit;Amadeus;2020;1;cualitativo
+2030_commitment;Amadeus;2020;0;cualitativo
+climate_strategy;Amadeus;2020;1;cualitativo
+recognized_env_standard;Amadeus;2020;1;cualitativo
+circular_economy;Amadeus;2020;0;cualitativo
+energy_management;Amadeus;2020;1;cualitativo
+product_stewardship;Amadeus;2020;0;cualitativo
+%_renewable_energy;Amadeus;2020;0;cuantitativo
+external_audit;Amadeus;2019;1;cualitativo
+2030_commitment;Amadeus;2019;0;cualitativo
+climate_strategy;Amadeus;2019;0;cualitativo
+recognized_env_standard;Amadeus;2019;1;cualitativo
+circular_economy;Amadeus;2019;0;cualitativo
+energy_management;Amadeus;2019;1;cualitativo
+product_stewardship;Amadeus;2019;0;cualitativo
+%_renewable_energy;Amadeus;2019;0;cuantitativo
+external_audit;Amadeus;2018;1;cualitativo
+2030_commitment;Amadeus;2018;0;cualitativo
+climate_strategy;Amadeus;2018;0;cualitativo
+recognized_env_standard;Amadeus;2018;1;cualitativo
+circular_economy;Amadeus;2018;0;cualitativo
+energy_management;Amadeus;2018;1;cualitativo
+product_stewardship;Amadeus;2018;0;cualitativo
+%_renewable_energy;Amadeus;2018;0.272;cuantitativo
+external_audit;Amadeus;2017;1;cualitativo
+2030_commitment;Amadeus;2017;0;cualitativo
+climate_strategy;Amadeus;2017;0;cualitativo
+recognized_env_standard;Amadeus;2017;1;cualitativo
+circular_economy;Amadeus;2017;0;cualitativo
+energy_management;Amadeus;2017;1;cualitativo
+product_stewardship;Amadeus;2017;0;cualitativo
+%_renewable_energy;Amadeus;2017;0;cuantitativo
+external_audit;BBVA;2019;0;cualitativo
+2030_commitment;BBVA;2019;1;cualitativo
+climate_strategy;BBVA;2019;1;cualitativo
+recognized_env_standard;BBVA;2019;1;cualitativo
+energy_management;BBVA;2019;0;cualitativo
+decarbonization_strategy;BBVA;2019;0;cualitativo
+%_renewable_energy;BBVA;2019;0.39;cuantitativo
+external_audit;BBVA;2018;1;cualitativo
+2030_commitment;BBVA;2018;0;cualitativo
+climate_strategy;BBVA;2018;0;cualitativo
+recognized_env_standard;BBVA;2018;1;cualitativo
+energy_management;BBVA;2018;1;cualitativo
+decarbonization_strategy;BBVA;2018;0;cualitativo
+%_renewable_energy;BBVA;2018;0.37;cuantitativo
+external_audit;BBVA;2017;1;cualitativo
+2030_commitment;BBVA;2017;0;cualitativo
+climate_strategy;BBVA;2017;0;cualitativo
+recognized_env_standard;BBVA;2017;0;cualitativo
+energy_management;BBVA;2017;1;cualitativo
+decarbonization_strategy;BBVA;2017;0;cualitativo
+%_renewable_energy;BBVA;2017;0.48;cuantitativo
+external_audit;Enagas;2021;0;cualitativo
+2030_commitment;Enagas;2021;1;cualitativo
+biodiversity_commitment;Enagas;2021;1;cualitativo
+climate_strategy;Enagas;2021;0;cualitativo
+recognized_env_standard;Enagas;2021;1;cualitativo
+energy_management;Enagas;2021;1;cualitativo
+%_renewable_energy;Enagas;2021;0;cuantitativo
+external_audit;Enagas;2020;1;cualitativo
+2030_commitment;Enagas;2020;0;cualitativo
+biodiversity_commitment;Enagas;2020;1;cualitativo
+climate_strategy;Enagas;2020;0;cualitativo
+recognized_env_standard;Enagas;2020;1;cualitativo
+energy_management;Enagas;2020;1;cualitativo
+%_renewable_energy;Enagas;2020;0.19;cuantitativo
+external_audit;Enagas;2019;0;cualitativo
+2030_commitment;Enagas;2019;0;cualitativo
+biodiversity_commitment;Enagas;2019;1;cualitativo
+climate_strategy;Enagas;2019;0;cualitativo
+recognized_env_standard;Enagas;2019;1;cualitativo
+energy_management;Enagas;2019;1;cualitativo
+%_renewable_energy;Enagas;2019;0.17;cuantitativo
+external_audit;Enagas;2018;1;cualitativo
+2030_commitment;Enagas;2018;1;cualitativo
+biodiversity_commitment;Enagas;2018;0;cualitativo
+climate_strategy;Enagas;2018;0;cualitativo
+recognized_env_standard;Enagas;2018;1;cualitativo
+energy_management;Enagas;2018;1;cualitativo
+%_renewable_energy;Enagas;2018;0.125;cuantitativo
+external_audit;Enagas;2017;1;cualitativo
+2030_commitment;Enagas;2017;0;cualitativo
+biodiversity_commitment;Enagas;2017;0;cualitativo
+climate_strategy;Enagas;2017;0;cualitativo
+recognized_env_standard;Enagas;2017;1;cualitativo
+energy_management;Enagas;2017;1;cualitativo
+%_renewable_energy;Enagas;2017;0.11;cuantitativo
+external_audit;Indra;2021;1;cualitativo
+2030_commitment;Indra;2021;0;cualitativo
+climate_strategy;Indra;2021;1;cualitativo
+recognized_env_standard;Indra;2021;1;cualitativo
+circular_economy;Indra;2021;1;cualitativo
+energy_management;Indra;2021;0;cualitativo
+product_stewardship;Indra;2021;0;cualitativo
+%_renewable_energy;Indra;2021;0.93;cuantitativo
+external_audit;Indra;2020;1;cualitativo
+2030_commitment;Indra;2020;1;cualitativo
+climate_strategy;Indra;2020;1;cualitativo
+recognized_env_standard;Indra;2020;1;cualitativo
+circular_economy;Indra;2020;1;cualitativo
+energy_management;Indra;2020;1;cualitativo
+product_stewardship;Indra;2020;0;cualitativo
+%_renewable_energy;Indra;2020;0.77;cuantitativo
+external_audit;Indra;2019;1;cualitativo
+2030_commitment;Indra;2019;0;cualitativo
+climate_strategy;Indra;2019;1;cualitativo
+recognized_env_standard;Indra;2019;1;cualitativo
+circular_economy;Indra;2019;1;cualitativo
+energy_management;Indra;2019;1;cualitativo
+product_stewardship;Indra;2019;0;cualitativo
+%_renewable_energy;Indra;2019;0.57;cuantitativo
+external_audit;Indra;2018;1;cualitativo
+2030_commitment;Indra;2018;1;cualitativo
+climate_strategy;Indra;2018;0;cualitativo
+recognized_env_standard;Indra;2018;1;cualitativo
+circular_economy;Indra;2018;1;cualitativo
+energy_management;Indra;2018;1;cualitativo
+product_stewardship;Indra;2018;0;cualitativo
+%_renewable_energy;Indra;2018;0.56;cuantitativo
+external_audit;Indra;2017;1;cualitativo
+2030_commitment;Indra;2017;1;cualitativo
+climate_strategy;Indra;2017;0;cualitativo
+recognized_env_standard;Indra;2017;1;cualitativo
+circular_economy;Indra;2017;0;cualitativo
+energy_management;Indra;2017;1;cualitativo
+product_stewardship;Indra;2017;0;cualitativo
+%_renewable_energy;Indra;2017;0;cuantitativo
+external_audit;Ferrovial;2021;0;cualitativo
+2030_commitment;Ferrovial;2021;1;cualitativo
+biodiversity_commitment;Ferrovial;2021;0;cualitativo
+climate_strategy;Ferrovial;2021;1;cualitativo
+green_buildings;Ferrovial;2021;0;cualitativo
+recognized_env_standard;Ferrovial;2021;1;cualitativo
+energy_management;Ferrovial;2021;0;cualitativo
+building_materials;Ferrovial;2021;0;cualitativo
+resource_efficiency;Ferrovial;2021;0;cualitativo
+%_renewable_energy;Ferrovial;2021;0.78;cuantitativo
+external_audit;Ferrovial;2020;0;cualitativo
+2030_commitment;Ferrovial;2020;0;cualitativo
+biodiversity_commitment;Ferrovial;2020;0;cualitativo
+climate_strategy;Ferrovial;2020;1;cualitativo
+green_buildings;Ferrovial;2020;1;cualitativo
+recognized_env_standard;Ferrovial;2020;1;cualitativo
+energy_management;Ferrovial;2020;0;cualitativo
+building_materials;Ferrovial;2020;0;cualitativo
+resource_efficiency;Ferrovial;2020;0;cualitativo
+%_renewable_energy;Ferrovial;2020;0;cuantitativo
+external_audit;Ferrovial;2019;0;cualitativo
+2030_commitment;Ferrovial;2019;1;cualitativo
+biodiversity_commitment;Ferrovial;2019;0;cualitativo
+climate_strategy;Ferrovial;2019;1;cualitativo
+green_buildings;Ferrovial;2019;0;cualitativo
+recognized_env_standard;Ferrovial;2019;1;cualitativo
+energy_management;Ferrovial;2019;0;cualitativo
+building_materials;Ferrovial;2019;0;cualitativo
+resource_efficiency;Ferrovial;2019;0;cualitativo
+%_renewable_energy;Ferrovial;2019;0.59;cuantitativo
+external_audit;Ferrovial;2018;0;cualitativo
+2030_commitment;Ferrovial;2018;0;cualitativo
+biodiversity_commitment;Ferrovial;2018;0;cualitativo
+climate_strategy;Ferrovial;2018;1;cualitativo
+green_buildings;Ferrovial;2018;1;cualitativo
+recognized_env_standard;Ferrovial;2018;1;cualitativo
+energy_management;Ferrovial;2018;1;cualitativo
+building_materials;Ferrovial;2018;0;cualitativo
+resource_efficiency;Ferrovial;2018;0;cualitativo
+%_renewable_energy;Ferrovial;2018;0.88;cuantitativo
+external_audit;Ferrovial;2017;0;cualitativo
+2030_commitment;Ferrovial;2017;0;cualitativo
+biodiversity_commitment;Ferrovial;2017;0;cualitativo
+climate_strategy;Ferrovial;2017;1;cualitativo
+green_buildings;Ferrovial;2017;1;cualitativo
+recognized_env_standard;Ferrovial;2017;1;cualitativo
+energy_management;Ferrovial;2017;0;cualitativo
+building_materials;Ferrovial;2017;0;cualitativo
+resource_efficiency;Ferrovial;2017;0;cualitativo
+%_renewable_energy;Ferrovial;2017;0.36;cuantitativo
+external_audit;Grifols;2021;0;cualitativo
+2030_commitment;Grifols;2021;1;cualitativo
+biodiversity_commitment;Grifols;2021;1;cualitativo
+climate_strategy;Grifols;2021;1;cualitativo
+recognized_env_standard;Grifols;2021;1;cualitativo
+energy_management;Grifols;2021;1;cualitativo
+%_renewable_energy;Grifols;2021;0.83;cuantitativo
+external_audit;Grifols;2020;1;cualitativo
+2030_commitment;Grifols;2020;1;cualitativo
+biodiversity_commitment;Grifols;2020;1;cualitativo
+climate_strategy;Grifols;2020;1;cualitativo
+recognized_env_standard;Grifols;2020;1;cualitativo
+energy_management;Grifols;2020;1;cualitativo
+%_renewable_energy;Grifols;2020;0.02;cuantitativo
+external_audit;Grifols;2019;0;cualitativo
+2030_commitment;Grifols;2019;1;cualitativo
+biodiversity_commitment;Grifols;2019;0;cualitativo
+climate_strategy;Grifols;2019;1;cualitativo
+recognized_env_standard;Grifols;2019;1;cualitativo
+energy_management;Grifols;2019;1;cualitativo
+%_renewable_energy;Grifols;2019;0.02;cuantitativo
+external_audit;Grifols;2018;1;cualitativo
+2030_commitment;Grifols;2018;0;cualitativo
+biodiversity_commitment;Grifols;2018;0;cualitativo
+climate_strategy;Grifols;2018;1;cualitativo
+recognized_env_standard;Grifols;2018;1;cualitativo
+energy_management;Grifols;2018;0;cualitativo
+%_renewable_energy;Grifols;2018;0.012;cuantitativo
+external_audit;Grifols;2017;0;cualitativo
+2030_commitment;Grifols;2017;0;cualitativo
+biodiversity_commitment;Grifols;2017;0;cualitativo
+climate_strategy;Grifols;2017;0;cualitativo
+recognized_env_standard;Grifols;2017;1;cualitativo
+energy_management;Grifols;2017;1;cualitativo
+%_renewable_energy;Grifols;2017;0.637;cuantitativo
+external_audit;Red Eléctrica;2021;1;cualitativo
+2030_commitment;Red Eléctrica;2021;1;cualitativo
+biodiversity_commitment;Red Eléctrica;2021;1;cualitativo
+climate_strategy;Red Eléctrica;2021;1;cualitativo
+recognized_env_standard;Red Eléctrica;2021;1;cualitativo
+energy_management;Red Eléctrica;2021;0;cualitativo
+%_renewable_energy;Red Eléctrica;2021;0;cuantitativo
+external_audit;Red Eléctrica;2020;0;cualitativo
+2030_commitment;Red Eléctrica;2020;1;cualitativo
+biodiversity_commitment;Red Eléctrica;2020;0;cualitativo
+climate_strategy;Red Eléctrica;2020;1;cualitativo
+recognized_env_standard;Red Eléctrica;2020;1;cualitativo
+energy_management;Red Eléctrica;2020;0;cualitativo
+%_renewable_energy;Red Eléctrica;2020;0.58;cuantitativo
+external_audit;Red Eléctrica;2019;1;cualitativo
+2030_commitment;Red Eléctrica;2019;1;cualitativo
+biodiversity_commitment;Red Eléctrica;2019;1;cualitativo
+climate_strategy;Red Eléctrica;2019;1;cualitativo
+recognized_env_standard;Red Eléctrica;2019;1;cualitativo
+energy_management;Red Eléctrica;2019;1;cualitativo
+%_renewable_energy;Red Eléctrica;2019;0.87;cuantitativo
+external_audit;Red Eléctrica;2018;0;cualitativo
+2030_commitment;Red Eléctrica;2018;1;cualitativo
+biodiversity_commitment;Red Eléctrica;2018;1;cualitativo
+climate_strategy;Red Eléctrica;2018;0;cualitativo
+recognized_env_standard;Red Eléctrica;2018;1;cualitativo
+energy_management;Red Eléctrica;2018;1;cualitativo
+%_renewable_energy;Red Eléctrica;2018;0.4;cuantitativo
+external_audit;Red Eléctrica;2017;1;cualitativo
+2030_commitment;Red Eléctrica;2017;1;cualitativo
+biodiversity_commitment;Red Eléctrica;2017;1;cualitativo
+climate_strategy;Red Eléctrica;2017;0;cualitativo
+recognized_env_standard;Red Eléctrica;2017;1;cualitativo
+energy_management;Red Eléctrica;2017;0;cualitativo
+%_renewable_energy;Red Eléctrica;2017;0.84;cuantitativo
+external_audit;Fluidra;2021;0;cualitativo
+2030_commitment;Fluidra;2021;1;cualitativo
+biodiversity_commitment;Fluidra;2021;1;cualitativo
+climate_strategy;Fluidra;2021;1;cualitativo
+recognized_env_standard;Fluidra;2021;1;cualitativo
+energy_management;Fluidra;2021;1;cualitativo
+%_renewable_energy;Fluidra;2021;0.83;cuantitativo
+external_audit;Fluidra;2020;1;cualitativo
+2030_commitment;Fluidra;2020;1;cualitativo
+biodiversity_commitment;Fluidra;2020;1;cualitativo
+climate_strategy;Fluidra;2020;1;cualitativo
+recognized_env_standard;Fluidra;2020;1;cualitativo
+energy_management;Fluidra;2020;1;cualitativo
+%_renewable_energy;Fluidra;2020;0.02;cuantitativo
+external_audit;Fluidra;2019;0;cualitativo
+2030_commitment;Fluidra;2019;1;cualitativo
+biodiversity_commitment;Fluidra;2019;0;cualitativo
+climate_strategy;Fluidra;2019;1;cualitativo
+recognized_env_standard;Fluidra;2019;1;cualitativo
+energy_management;Fluidra;2019;1;cualitativo
+%_renewable_energy;Fluidra;2019;0.02;cuantitativo
+external_audit;Fluidra;2018;1;cualitativo
+2030_commitment;Fluidra;2018;0;cualitativo
+biodiversity_commitment;Fluidra;2018;0;cualitativo
+climate_strategy;Fluidra;2018;1;cualitativo
+recognized_env_standard;Fluidra;2018;1;cualitativo
+energy_management;Fluidra;2018;0;cualitativo
+%_renewable_energy;Fluidra;2018;0.012;cuantitativo
+external_audit;Fluidra;2017;0;cualitativo
+2030_commitment;Fluidra;2017;0;cualitativo
+biodiversity_commitment;Fluidra;2017;0;cualitativo
+climate_strategy;Fluidra;2017;0;cualitativo
+recognized_env_standard;Fluidra;2017;1;cualitativo
+energy_management;Fluidra;2017;1;cualitativo
+%_renewable_energy;Fluidra;2017;0.637;cuantitativo
+%_reduction_co2_2030;Acerinox;2021;0.2;cuantitativo
+%_reduction_co2_2030;Acerinox;2020;0.2;cuantitativo
+%_reduction_co2_2030;Acerinox;2019;0;cuantitativo
+%_reduction_co2_2030;Acerinox;2018;0;cuantitativo
+%_reduction_co2_2030;Acerinox;2017;0;cuantitativo
+%_reduction_co2_2030;ACS;2021;0;cuantitativo
+%_reduction_co2_2030;ACS;2020;0;cuantitativo
+%_reduction_co2_2030;ACS;2019;0;cuantitativo
+%_reduction_co2_2030;ACS;2018;0;cuantitativo
+%_reduction_co2_2030;ACS;2017;0.4;cuantitativo
+%_reduction_co2_2030;Bankinter;2021;0;cuantitativo
+%_reduction_co2_2030;Bankinter;2020;0;cuantitativo
+%_reduction_co2_2030;Bankinter;2019;0;cuantitativo
+%_reduction_co2_2030;Bankinter;2018;0;cuantitativo
+%_reduction_co2_2030;Bankinter;2017;0;cuantitativo
+%_reduction_co2_2030;Endesa;2021;0.45;cuantitativo
+%_reduction_co2_2030;Endesa;2020;0;cuantitativo
+%_reduction_co2_2030;Endesa;2019;0;cuantitativo
+%_reduction_co2_2030;Endesa;2018;0.65;cuantitativo
+%_reduction_co2_2030;Endesa;2017;0.26;cuantitativo
+%_reduction_co2_2030;IAG;2021;0.2;cuantitativo
+%_reduction_co2_2030;IAG;2020;0.2;cuantitativo
+%_reduction_co2_2030;IAG;2019;0;cuantitativo
+%_reduction_co2_2030;IAG;2018;0;cuantitativo
+%_reduction_co2_2030;IAG;2017;0;cuantitativo
+%_reduction_co2_2030;Melia;2021;0;cuantitativo
+%_reduction_co2_2030;Melia;2020;0;cuantitativo
+%_reduction_co2_2030;Melia;2019;0;cuantitativo
+%_reduction_co2_2030;Melia;2018;0;cuantitativo
+%_reduction_co2_2030;Melia;2017;0;cuantitativo
+%_reduction_co2_2030;Acciona;2021;0;cuantitativo
+%_reduction_co2_2030;Acciona;2020;0;cuantitativo
+%_reduction_co2_2030;Acciona;2019;0.2;cuantitativo
+%_reduction_co2_2030;Acciona;2018;0;cuantitativo
+%_reduction_co2_2030;Acciona;2017;0;cuantitativo
+%_reduction_co2_2030;ArcelorMittal;2021;0.25;cuantitativo
+%_reduction_co2_2030;ArcelorMittal;2020;0;cuantitativo
+%_reduction_co2_2030;ArcelorMittal;2019;0;cuantitativo
+%_reduction_co2_2030;ArcelorMittal;2018;0;cuantitativo
+%_reduction_co2_2030;ArcelorMittal;2017;0;cuantitativo
+%_reduction_co2_2030;Cellnex;2020;0.5;cuantitativo
+%_reduction_co2_2030;Cellnex;2021;0.7;cuantitativo
+external_audit;Cellnex;2021;1;cualitativo
+%_reduction_co2_2030;Colonial;2021;0.5;cuantitativo
+%_reduction_co2_2030;Colonial;2020;0.75;cuantitativo
+%_reduction_co2_2030;Colonial;2019;0.7;cuantitativo
+%_reduction_co2_2030;Colonial;2018;0;cuantitativo
+%_reduction_co2_2030;Colonial;2017;0;cuantitativo
+%_reduction_co2_2030;Iberdrola;2021;0.55;cuantitativo
+%_reduction_co2_2030;Iberdrola;2020;0.45;cuantitativo
+%_reduction_co2_2030;Iberdrola;2019;0.45;cuantitativo
+%_reduction_co2_2030;Iberdrola;2018;0;cuantitativo
+%_reduction_co2_2030;Iberdrola;2017;0;cuantitativo
+%_reduction_co2_2030;Inditex;2021;0.9;cuantitativo
+%_reduction_co2_2030;Inditex;2020;0.9;cuantitativo
+%_reduction_co2_2030;Inditex;2019;0.3;cuantitativo
+%_reduction_co2_2030;Inditex;2018;0;cuantitativo
+%_reduction_co2_2030;Inditex;2017;0;cuantitativo
+%_reduction_co2_2030;Mapfre;2021;0.5;cuantitativo
+%_reduction_co2_2030;Mapfre;2020;0;cuantitativo
+%_reduction_co2_2030;Mapfre;2019;0;cuantitativo
+%_reduction_co2_2030;Mapfre;2018;0;cuantitativo
+%_reduction_co2_2030;Mapfre;2017;0;cuantitativo
+%_reduction_co2_2030;Rovi;2021;0;cuantitativo
+%_reduction_co2_2030;Rovi;2020;0;cuantitativo
+%_reduction_co2_2030;Rovi;2019;0;cuantitativo
+%_reduction_co2_2030;Rovi;2018;0;cuantitativo
+%_reduction_co2_2030;Rovi;2017;0;cuantitativo
+%_reduction_co2_2030;Banco Santander;2021;0;cuantitativo
+%_reduction_co2_2030;Banco Santander;2020;0;cuantitativo
+%_reduction_co2_2030;Banco Santander;2019;0;cuantitativo
+%_reduction_co2_2030;Banco Santander;2018;0;cuantitativo
+%_reduction_co2_2030;Banco Santander;2017;0;cuantitativo
+%_reduction_co2_2030;Telefonica;2021;0.80;cuantitativo
+%_reduction_co2_2030;Telefonica;2020;0;cuantitativo
+%_reduction_co2_2030;Telefonica;2019;0;cuantitativo
+%_reduction_co2_2030;Telefonica;2018;0.5;cuantitativo
+%_reduction_co2_2030;Telefonica;2017;0.5;cuantitativo
+%_reduction_co2_2030;Repsol;2021;0.28;cuantitativo
+%_reduction_co2_2030;Repsol;2020;0.25;cuantitativo
+%_reduction_co2_2030;Repsol;2019;0.2;cuantitativo
+%_reduction_co2_2030;Repsol;2018;0;cuantitativo
+%_reduction_co2_2030;Repsol;2017;0;cuantitativo
+%_reduction_co2_2030;CaixaBank;2021;0;cuantitativo
+%_reduction_co2_2030;CaixaBank;2020;0;cuantitativo
+%_reduction_co2_2030;CaixaBank;2019;0;cuantitativo
+%_reduction_co2_2030;CaixaBank;2018;0;cuantitativo
+%_reduction_co2_2030;CaixaBank;2017;0;cuantitativo
+%_reduction_co2_2030;Unicaja;2021;0;cuantitativo
+%_reduction_co2_2030;Unicaja;2020;0;cuantitativo
+%_reduction_co2_2030;Unicaja;2019;0;cuantitativo
+%_reduction_co2_2030;Unicaja;2018;0;cuantitativo
+%_reduction_co2_2030;Unicaja;2017;0;cuantitativo
+%_reduction_co2_2030;Solaria;2021;0.55;cuantitativo
+%_reduction_co2_2030;Solaria;2020;0;cuantitativo
+%_reduction_co2_2030;Solaria;2019;0;cuantitativo
+%_reduction_co2_2030;Solaria;2018;0;cuantitativo
+%_reduction_co2_2030;Solaria;2017;0;cuantitativo
+%_reduction_co2_2030;Aena;2021;0.93;cuantitativo
+%_reduction_co2_2030;Aena;2020;0;cuantitativo
+%_reduction_co2_2030;Aena;2019;0;cuantitativo
+%_reduction_co2_2030;Aena;2018;0;cuantitativo
+%_reduction_co2_2030;Aena;2017;0;cuantitativo
+%_reduction_co2_2030;Amadeus;2021;1;cuantitativo
+%_reduction_co2_2030;Amadeus;2020;1;cuantitativo
+%_reduction_co2_2030;Amadeus;2019;0;cuantitativo
+%_reduction_co2_2030;Amadeus;2018;0;cuantitativo
+%_reduction_co2_2030;Amadeus;2017;0;cuantitativo
+%_reduction_co2_2030;Banco Sabadell;2021;0;cuantitativo
+%_reduction_co2_2030;Banco Sabadell;2020;0;cuantitativo
+%_reduction_co2_2030;Banco Sabadell;2019;0;cuantitativo
+%_reduction_co2_2030;Banco Sabadell;2018;0;cuantitativo
+%_reduction_co2_2030;Banco Sabadell;2017;0;cuantitativo
+%_reduction_co2_2030;Banco Santander;2021;0;cuantitativo
+%_reduction_co2_2030;Banco Santander;2020;0;cuantitativo
+%_reduction_co2_2030;Banco Santander;2019;0;cuantitativo
+%_reduction_co2_2030;Banco Santander;2018;0;cuantitativo
+%_reduction_co2_2030;Banco Santander;2017;0;cuantitativo
+%_reduction_co2_2030;BBVA;2021;0;cuantitativo
+%_reduction_co2_2030;BBVA;2020;0;cuantitativo
+%_reduction_co2_2030;BBVA;2019;0;cuantitativo
+%_reduction_co2_2030;BBVA;2018;0;cuantitativo
+%_reduction_co2_2030;BBVA;2017;0;cuantitativo
+%_reduction_co2_2030;Enagas;2021;0.74;cuantitativo
+%_reduction_co2_2030;Enagas;2020;0;cuantitativo
+%_reduction_co2_2030;Enagas;2019;0;cuantitativo
+%_reduction_co2_2030;Enagas;2018;0;cuantitativo
+%_reduction_co2_2030;Enagas;2017;0;cuantitativo
+%_reduction_co2_2030;Ferrovial;2021;0;cuantitativo
+%_reduction_co2_2030;Ferrovial;2020;0;cuantitativo
+%_reduction_co2_2030;Ferrovial;2019;0.32;cuantitativo
+%_reduction_co2_2030;Ferrovial;2018;0.32;cuantitativo
+%_reduction_co2_2030;Ferrovial;2017;0;cuantitativo
+%_reduction_co2_2030;Fluidra;2021;0;cuantitativo
+%_reduction_co2_2030;Fluidra;2020;0;cuantitativo
+%_reduction_co2_2030;Fluidra;2019;0;cuantitativo
+%_reduction_co2_2030;Fluidra;2018;0;cuantitativo
+%_reduction_co2_2030;Fluidra;2017;0;cuantitativo
+%_reduction_co2_2030;Grifols;2021;0.55;cuantitativo
+%_reduction_co2_2030;Grifols;2020;0;cuantitativo
+%_reduction_co2_2030;Grifols;2019;0;cuantitativo
+%_reduction_co2_2030;Grifols;2018;0;cuantitativo
+%_reduction_co2_2030;Grifols;2017;0;cuantitativo
+%_reduction_co2_2030;Indra;2021;0;cuantitativo
+%_reduction_co2_2030;Indra;2020;0.75;cuantitativo
+%_reduction_co2_2030;Indra;2019;0;cuantitativo
+%_reduction_co2_2030;Indra;2018;0.75;cuantitativo
+%_reduction_co2_2030;Indra;2017;0.4;cuantitativo
+%_reduction_co2_2030;Merlin Properties;2021;0;cuantitativo
+%_reduction_co2_2030;Merlin Properties;2020;0;cuantitativo
+%_reduction_co2_2030;Merlin Properties;2019;0;cuantitativo
+%_reduction_co2_2030;Merlin Properties;2018;0;cuantitativo
+%_reduction_co2_2030;Merlin Properties;2017;0;cuantitativo
+%_reduction_co2_2030;Naturgy;2021;0;cuantitativo
+%_reduction_co2_2030;Naturgy;2020;0.19;cuantitativo
+%_reduction_co2_2030;Naturgy;2019;0;cuantitativo
+%_reduction_co2_2030;Naturgy;2018;0;cuantitativo
+%_reduction_co2_2030;Naturgy;2017;0;cuantitativo
+%_reduction_co2_2030;Sacyr;2021;0;cuantitativo
+%_reduction_co2_2030;Sacyr;2020;0.42;cuantitativo
+%_reduction_co2_2030;Sacyr;2019;0;cuantitativo
+%_reduction_co2_2030;Sacyr;2018;0;cuantitativo
+%_reduction_co2_2030;Sacyr;2017;0;cuantitativo
+%_reduction_co2_2030;Siemens Gamesa;2021;0;cuantitativo
+%_reduction_co2_2030;Siemens Gamesa;2020;0;cuantitativo
+%_reduction_co2_2030;Siemens Gamesa;2019;0;cuantitativo
+%_reduction_co2_2030;Siemens Gamesa;2018;0;cuantitativo
+%_reduction_co2_2030;Siemens Gamesa;2017;0;cuantitativo
+%_reduction_co2_2030;Acciona Energías;2021;0;cuantitativo
+%_reduction_co2_2030;Acciona Energías;2020;0;cuantitativo
+%_reduction_co2_2030;Logista;2021;0.3;cuantitativo
+%_reduction_co2_2030;Logista;2020;0.54;cuantitativo
+%_reduction_co2_2030;Logista;2019;0.3;cuantitativo
+%_reduction_co2_2030;Logista;2018;0;cuantitativo
+%_reduction_co2_2030;Logista;2017;0;cuantitativo
+biodiversity_commitment;Acciona;2017;1;cualitativo
+climate_strategy;Acciona;2017;1;cualitativo
+green_buildings;Acciona;2017;1;cualitativo
+recognized_env_standard;Acciona;2017;1;cualitativo
+energy_management;Acciona;2017;0;cualitativo
+building_materials;Acciona;2017;0;cualitativo
+resource_efficiency;Acciona;2017;0;cualitativo
+%_renewable_energy;Acciona;2017;0;cuantitativo
+external_audit;Acciona;2018;0;cuantitativo
+2030_commitment;Acciona;2018;1;cualitativo
+biodiversity_commitment;Acciona;2018;1;cualitativo
+climate_strategy;Acciona;2018;1;cualitativo
+green_buildings;Acciona;2018;0;cualitativo
+recognized_env_standard;Acciona;2018;1;cualitativo
+energy_management;Acciona;2018;1;cualitativo
+building_materials;Acciona;2018;1;cualitativo
+resource_efficiency;Acciona;2018;0;cualitativo
+%_renewable_energy;Acciona;2018;1;cuantitativo
+external_audit;Acciona;2019;1;cuantitativo
+2030_commitment;Acciona;2019;1;cualitativo
+biodiversity_commitment;Acciona;2019;1;cualitativo
+climate_strategy;Acciona;2019;0;cualitativo
+green_buildings;Acciona;2019;1;cualitativo
+recognized_env_standard;Acciona;2019;1;cualitativo
+energy_management;Acciona;2019;1;cualitativo
+building_materials;Acciona;2019;1;cualitativo
+resource_efficiency;Acciona;2019;0;cualitativo
+%_renewable_energy;Acciona;2019;1;cuantitativo
+external_audit;Acciona;2020;1;cuantitativo
+2030_commitment;Acciona;2020;0;cualitativo
+biodiversity_commitment;Acciona;2020;1;cualitativo
+climate_strategy;Acciona;2020;1;cualitativo
+green_buildings;Acciona;2020;1;cualitativo
+recognized_env_standard;Acciona;2020;1;cualitativo
+energy_management;Acciona;2020;1;cualitativo
+building_materials;Acciona;2020;1;cualitativo
+resource_efficiency;Acciona;2020;1;cualitativo
+%_renewable_energy;Acciona;2020;0;cuantitativo
+external_audit;Acciona;2021;1;cuantitativo
+2030_commitment;Acciona;2021;1;cualitativo
+biodiversity_commitment;Acciona;2021;1;cualitativo
+climate_strategy;Acciona;2021;0;cualitativo
+green_buildings;Acciona;2021;1;cualitativo
+recognized_env_standard;Acciona;2021;1;cualitativo
+energy_management;Acciona;2021;1;cualitativo
+building_materials;Acciona;2021;1;cualitativo
+resource_efficiency;Acciona;2021;0;cualitativo
+%_renewable_energy;Acciona;2021;0;cuantitativo
+external_audit;ArcelorMittal;2017;1;cuantitativo
+2030_commitment;ArcelorMittal;2017;0;cualitativo
+biodiversity_commitment;ArcelorMittal;2017;0;cualitativo
+climate_strategy;ArcelorMittal;2017;0;cualitativo
+water_management;ArcelorMittal;2017;0;cualitativo
+recognized_env_standard;ArcelorMittal;2017;1;cualitativo
+energy_management;ArcelorMittal;2017;1;cualitativo
+ard_management;ArcelorMittal;2017;0;cualitativo
+%_renewable_energy;ArcelorMittal;2017;0;cuantitativo
+%_recycled_water;ArcelorMittal;2017;0;cuantitativo
+external_audit;ArcelorMittal;2018;0;cuantitativo
+2030_commitment;ArcelorMittal;2018;0;cualitativo
+biodiversity_commitment;ArcelorMittal;2018;1;cualitativo
+climate_strategy;ArcelorMittal;2018;0;cualitativo
+water_management;ArcelorMittal;2018;1;cualitativo
+recognized_env_standard;ArcelorMittal;2018;0;cualitativo
+energy_management;ArcelorMittal;2018;0;cualitativo
+ard_management;ArcelorMittal;2018;0;cualitativo
+%_renewable_energy;ArcelorMittal;2018;0;cuantitativo
+%_recycled_water;ArcelorMittal;2018;0;cuantitativo
+external_audit;ArcelorMittal;2019;0;cuantitativo
+2030_commitment;ArcelorMittal;2019;1;cualitativo
+biodiversity_commitment;ArcelorMittal;2019;1;cualitativo
+climate_strategy;ArcelorMittal;2019;0;cualitativo
+water_management;ArcelorMittal;2019;1;cualitativo
+recognized_env_standard;ArcelorMittal;2019;0;cualitativo
+energy_management;ArcelorMittal;2019;1;cualitativo
+ard_management;ArcelorMittal;2019;0;cualitativo
+%_renewable_energy;ArcelorMittal;2019;0;cuantitativo
+%_recycled_water;ArcelorMittal;2019;0;cuantitativo
+external_audit;ArcelorMittal;2020;0;cuantitativo
+2030_commitment;ArcelorMittal;2020;1;cualitativo
+biodiversity_commitment;ArcelorMittal;2020;0;cualitativo
+climate_strategy;ArcelorMittal;2020;0;cualitativo
+water_management;ArcelorMittal;2020;0;cualitativo
+recognized_env_standard;ArcelorMittal;2020;1;cualitativo
+energy_management;ArcelorMittal;2020;1;cualitativo
+ard_management;ArcelorMittal;2020;0;cualitativo
+%_renewable_energy;ArcelorMittal;2020;0;cuantitativo
+%_recycled_water;ArcelorMittal;2020;0;cuantitativo
+external_audit;ArcelorMittal;2021;1;cuantitativo
+2030_commitment;ArcelorMittal;2021;1;cualitativo
+biodiversity_commitment;ArcelorMittal;2021;0;cualitativo
+climate_strategy;ArcelorMittal;2021;1;cualitativo
+water_management;ArcelorMittal;2021;1;cualitativo
+recognized_env_standard;ArcelorMittal;2021;1;cualitativo
+energy_management;ArcelorMittal;2021;1;cualitativo
+ard_management;ArcelorMittal;2021;0;cualitativo
+%_renewable_energy;ArcelorMittal;2021;0;cuantitativo
+%_recycled_water;ArcelorMittal;2021;0;cuantitativo
+external_audit;CaixaBank;2017;0;cuantitativo
+2030_commitment;CaixaBank;2017;0;cualitativo
+climate_strategy;CaixaBank;2017;0;cualitativo
+energy_management;CaixaBank;2017;0;cualitativo
+decarbonization_strategy;CaixaBank;2017;0;cualitativo
+%_renewable_energy;CaixaBank;2017;0;cuantitativo
+external_audit;CaixaBank;2018;0;cuantitativo
+2030_commitment;CaixaBank;2018;1;cualitativo
+climate_strategy;CaixaBank;2018;1;cualitativo
+energy_management;CaixaBank;2018;1;cualitativo
+decarbonization_strategy;CaixaBank;2018;1;cualitativo
+%_renewable_energy;CaixaBank;2018;0;cuantitativo
+external_audit;CaixaBank;2019;0;cuantitativo
+2030_commitment;CaixaBank;2019;0;cualitativo
+climate_strategy;CaixaBank;2019;1;cualitativo
+energy_management;CaixaBank;2019;0;cualitativo
+decarbonization_strategy;CaixaBank;2019;0;cualitativo
+%_renewable_energy;CaixaBank;2019;0;cuantitativo
+external_audit;CaixaBank;2020;0;cuantitativo
+2030_commitment;CaixaBank;2020;0;cualitativo
+climate_strategy;CaixaBank;2020;1;cualitativo
+energy_management;CaixaBank;2020;1;cualitativo
+decarbonization_strategy;CaixaBank;2020;1;cualitativo
+%_renewable_energy;CaixaBank;2020;0;cuantitativo
+external_audit;CaixaBank;2021;1;cuantitativo
+2030_commitment;CaixaBank;2021;0;cualitativo
+climate_strategy;CaixaBank;2021;1;cualitativo
+energy_management;CaixaBank;2021;0;cualitativo
+decarbonization_strategy;CaixaBank;2021;0;cualitativo
+%_renewable_energy;CaixaBank;2021;0;cuantitativo
+external_audit;Banco Sabadell;2017;0;cuantitativo
+2030_commitment;Banco Sabadell;2017;0;cualitativo
+climate_strategy;Banco Sabadell;2017;0;cualitativo
+energy_management;Banco Sabadell;2017;0;cualitativo
+decarbonization_strategy;Banco Sabadell;2017;0;cualitativo
+%_renewable_energy;Banco Sabadell;2017;0;cuantitativo
+external_audit;Banco Sabadell;2018;0;cuantitativo
+2030_commitment;Banco Sabadell;2018;0;cualitativo
+climate_strategy;Banco Sabadell;2018;0;cualitativo
+energy_management;Banco Sabadell;2018;0;cualitativo
+decarbonization_strategy;Banco Sabadell;2018;0;cualitativo
+%_renewable_energy;Banco Sabadell;2018;0;cuantitativo
+external_audit;Banco Sabadell;2019;0;cuantitativo
+2030_commitment;Banco Sabadell;2019;0;cualitativo
+climate_strategy;Banco Sabadell;2019;0;cualitativo
+energy_management;Banco Sabadell;2019;0;cualitativo
+decarbonization_strategy;Banco Sabadell;2019;0;cualitativo
+%_renewable_energy;Banco Sabadell;2019;0;cuantitativo
+external_audit;Banco Sabadell;2020;0;cuantitativo
+2030_commitment;Banco Sabadell;2020;0;cualitativo
+climate_strategy;Banco Sabadell;2020;1;cualitativo
+energy_management;Banco Sabadell;2020;0;cualitativo
+decarbonization_strategy;Banco Sabadell;2020;0;cualitativo
+%_renewable_energy;Banco Sabadell;2020;0;cuantitativo
+external_audit;Banco Sabadell;2021;0;cuantitativo
+2030_commitment;Banco Sabadell;2021;1;cualitativo
+climate_strategy;Banco Sabadell;2021;1;cualitativo
+energy_management;Banco Sabadell;2021;0;cualitativo
+decarbonization_strategy;Banco Sabadell;2021;1;cualitativo
+%_renewable_energy;Banco Sabadell;2021;0.999;cuantitativo
+external_audit;Banco Santander;2017;0;cuantitativo
+2030_commitment;Banco Santander;2017;0;cualitativo
+climate_strategy;Banco Santander;2017;0;cualitativo
+energy_management;Banco Santander;2017;1;cualitativo
+decarbonization_strategy;Banco Santander;2017;0;cualitativo
+%_renewable_energy;Banco Santander;2017;0;cuantitativo
+external_audit;Banco Santander;2018;0;cuantitativo
+2030_commitment;Banco Santander;2018;0;cualitativo
+climate_strategy;Banco Santander;2018;0;cualitativo
+energy_management;Banco Santander;2018;1;cualitativo
+decarbonization_strategy;Banco Santander;2018;0;cualitativo
+%_renewable_energy;Banco Santander;2018;0;cuantitativo
+external_audit;Banco Santander;2019;1;cuantitativo
+2030_commitment;Banco Santander;2019;0;cualitativo
+climate_strategy;Banco Santander;2019;1;cualitativo
+energy_management;Banco Santander;2019;0;cualitativo
+decarbonization_strategy;Banco Santander;2019;1;cualitativo
+%_renewable_energy;Banco Santander;2019;0.5;cuantitativo
+external_audit;Banco Santander;2020;1;cuantitativo
+2030_commitment;Banco Santander;2020;0;cualitativo
+climate_strategy;Banco Santander;2020;1;cualitativo
+energy_management;Banco Santander;2020;0;cualitativo
+decarbonization_strategy;Banco Santander;2020;1;cualitativo
+%_renewable_energy;Banco Santander;2020;0;cuantitativo
+external_audit;Banco Santander;2021;1;cuantitativo
+2030_commitment;Banco Santander;2021;1;cualitativo
+climate_strategy;Banco Santander;2021;1;cualitativo
+energy_management;Banco Santander;2021;0;cualitativo
+decarbonization_strategy;Banco Santander;2021;1;cualitativo
+%_renewable_energy;Banco Santander;2021;0;cuantitativo
+external_audit;Unicaja;2017;0;cuantitativo
+2030_commitment;Unicaja;2017;0;cualitativo
+climate_strategy;Unicaja;2017;0;cualitativo
+energy_management;Unicaja;2017;0;cualitativo
+decarbonization_strategy;Unicaja;2017;0;cualitativo
+%_renewable_energy;Unicaja;2017;0;cuantitativo
+external_audit;Unicaja;2018;0;cuantitativo
+2030_commitment;Unicaja;2018;0;cualitativo
+climate_strategy;Unicaja;2018;0;cualitativo
+energy_management;Unicaja;2018;1;cualitativo
+decarbonization_strategy;Unicaja;2018;0;cualitativo
+%_renewable_energy;Unicaja;2018;0;cuantitativo
+external_audit;Unicaja;2019;1;cuantitativo
+2030_commitment;Unicaja;2019;0;cualitativo
+climate_strategy;Unicaja;2019;0;cualitativo
+energy_management;Unicaja;2019;1;cualitativo
+decarbonization_strategy;Unicaja;2019;0;cualitativo
+%_renewable_energy;Unicaja;2019;0;cuantitativo
+external_audit;Unicaja;2020;0;cuantitativo
+2030_commitment;Unicaja;2020;0;cualitativo
+climate_strategy;Unicaja;2020;0;cualitativo
+energy_management;Unicaja;2020;0;cualitativo
+decarbonization_strategy;Unicaja;2020;0;cualitativo
+%_renewable_energy;Unicaja;2020;0;cuantitativo
+external_audit;Unicaja;2021;0;cuantitativo
+2030_commitment;Unicaja;2021;1;cualitativo
+climate_strategy;Unicaja;2021;0;cualitativo
+energy_management;Unicaja;2021;1;cualitativo
+decarbonization_strategy;Unicaja;2021;1;cualitativo
+%_renewable_energy;Unicaja;2021;0;cuantitativo
+external_audit;Colonial;2017;0;cuantitativo
+2030_commitment;Colonial;2017;0;cualitativo
+biodiversity_commitment;Colonial;2017;0;cualitativo
+climate_strategy;Colonial;2017;0;cualitativo
+green_buildings;Colonial;2017;1;cualitativo
+recognized_env_standard;Colonial;2017;0;cualitativo
+energy_management;Colonial;2017;1;cualitativo
+building_materials;Colonial;2017;1;cualitativo
+resource_efficiency;Colonial;2017;0;cualitativo
+%_renewable_energy;Colonial;2017;0;cuantitativo
+external_audit;Colonial;2018;0;cuantitativo
+2030_commitment;Colonial;2018;1;cualitativo
+biodiversity_commitment;Colonial;2018;1;cualitativo
+climate_strategy;Colonial;2018;0;cualitativo
+green_buildings;Colonial;2018;1;cualitativo
+recognized_env_standard;Colonial;2018;0;cualitativo
+energy_management;Colonial;2018;0;cualitativo
+building_materials;Colonial;2018;0;cualitativo
+resource_efficiency;Colonial;2018;0;cualitativo
+%_renewable_energy;Colonial;2018;0;cuantitativo
+external_audit;Colonial;2019;0;cuantitativo
+2030_commitment;Colonial;2019;1;cualitativo
+biodiversity_commitment;Colonial;2019;0;cualitativo
+climate_strategy;Colonial;2019;1;cualitativo
+green_buildings;Colonial;2019;1;cualitativo
+recognized_env_standard;Colonial;2019;1;cualitativo
+energy_management;Colonial;2019;1;cualitativo
+building_materials;Colonial;2019;1;cualitativo
+resource_efficiency;Colonial;2019;0;cualitativo
+%_renewable_energy;Colonial;2019;0;cuantitativo
+external_audit;Colonial;2020;0;cuantitativo
+2030_commitment;Colonial;2020;1;cualitativo
+biodiversity_commitment;Colonial;2020;1;cualitativo
+climate_strategy;Colonial;2020;1;cualitativo
+green_buildings;Colonial;2020;1;cualitativo
+recognized_env_standard;Colonial;2020;1;cualitativo
+energy_management;Colonial;2020;1;cualitativo
+building_materials;Colonial;2020;1;cualitativo
+resource_efficiency;Colonial;2020;1;cualitativo
+%_renewable_energy;Colonial;2020;0;cuantitativo
+external_audit;Colonial;2021;0;cuantitativo
+2030_commitment;Colonial;2021;1;cualitativo
+biodiversity_commitment;Colonial;2021;1;cualitativo
+climate_strategy;Colonial;2021;0;cualitativo
+green_buildings;Colonial;2021;1;cualitativo
+recognized_env_standard;Colonial;2021;0;cualitativo
+energy_management;Colonial;2021;1;cualitativo
+building_materials;Colonial;2021;1;cualitativo
+resource_efficiency;Colonial;2021;1;cualitativo
+%_renewable_energy;Colonial;2021;0;cuantitativo
+external_audit;Iberdrola;2017;1;cuantitativo
+2030_commitment;Iberdrola;2017;1;cualitativo
+biodiversity_commitment;Iberdrola;2017;0;cualitativo
+climate_strategy;Iberdrola;2017;0;cualitativo
+recognized_env_standard;Iberdrola;2017;1;cualitativo
+energy_management;Iberdrola;2017;1;cualitativo
+%_renewable_energy;Iberdrola;2017;0;cuantitativo
+external_audit;Iberdrola;2018;1;cuantitativo
+2030_commitment;Iberdrola;2018;1;cualitativo
+biodiversity_commitment;Iberdrola;2018;1;cualitativo
+climate_strategy;Iberdrola;2018;1;cualitativo
+recognized_env_standard;Iberdrola;2018;1;cualitativo
+energy_management;Iberdrola;2018;0;cualitativo
+%_renewable_energy;Iberdrola;2018;0;cuantitativo
+external_audit;Iberdrola;2019;1;cuantitativo
+2030_commitment;Iberdrola;2019;0;cualitativo
+biodiversity_commitment;Iberdrola;2019;1;cualitativo
+climate_strategy;Iberdrola;2019;1;cualitativo
+recognized_env_standard;Iberdrola;2019;1;cualitativo
+energy_management;Iberdrola;2019;0;cualitativo
+%_renewable_energy;Iberdrola;2019;0;cuantitativo
+external_audit;Iberdrola;2020;0;cuantitativo
+2030_commitment;Iberdrola;2020;1;cualitativo
+biodiversity_commitment;Iberdrola;2020;1;cualitativo
+climate_strategy;Iberdrola;2020;0;cualitativo
+recognized_env_standard;Iberdrola;2020;1;cualitativo
+energy_management;Iberdrola;2020;1;cualitativo
+%_renewable_energy;Iberdrola;2020;0;cuantitativo
+external_audit;Iberdrola;2021;1;cuantitativo
+2030_commitment;Iberdrola;2021;1;cualitativo
+biodiversity_commitment;Iberdrola;2021;1;cualitativo
+climate_strategy;Iberdrola;2021;1;cualitativo
+recognized_env_standard;Iberdrola;2021;1;cualitativo
+energy_management;Iberdrola;2021;1;cualitativo
+%_renewable_energy;Iberdrola;2021;0;cuantitativo
+external_audit;Naturgy;2017;1;cuantitativo
+2030_commitment;Naturgy;2017;1;cualitativo
+biodiversity_commitment;Naturgy;2017;0;cualitativo
+climate_strategy;Naturgy;2017;0;cualitativo
+recognized_env_standard;Naturgy;2017;1;cualitativo
+energy_management;Naturgy;2017;0;cualitativo
+%_renewable_energy;Naturgy;2017;0;cuantitativo
+external_audit;Naturgy;2018;1;cuantitativo
+2030_commitment;Naturgy;2018;0;cualitativo
+biodiversity_commitment;Naturgy;2018;0;cualitativo
+climate_strategy;Naturgy;2018;0;cualitativo
+recognized_env_standard;Naturgy;2018;0;cualitativo
+energy_management;Naturgy;2018;1;cualitativo
+%_renewable_energy;Naturgy;2018;0;cuantitativo
+external_audit;Naturgy;2019;0;cuantitativo
+2030_commitment;Naturgy;2019;0;cualitativo
+biodiversity_commitment;Naturgy;2019;1;cualitativo
+climate_strategy;Naturgy;2019;0;cualitativo
+recognized_env_standard;Naturgy;2019;1;cualitativo
+energy_management;Naturgy;2019;1;cualitativo
+%_renewable_energy;Naturgy;2019;0;cuantitativo
+external_audit;Naturgy;2020;0;cuantitativo
+2030_commitment;Naturgy;2020;0;cualitativo
+biodiversity_commitment;Naturgy;2020;0;cualitativo
+climate_strategy;Naturgy;2020;1;cualitativo
+recognized_env_standard;Naturgy;2020;1;cualitativo
+energy_management;Naturgy;2020;1;cualitativo
+%_renewable_energy;Naturgy;2020;0;cuantitativo
+external_audit;Naturgy;2021;1;cuantitativo
+2030_commitment;Naturgy;2021;1;cualitativo
+biodiversity_commitment;Naturgy;2021;1;cualitativo
+climate_strategy;Naturgy;2021;1;cualitativo
+recognized_env_standard;Naturgy;2021;1;cualitativo
+energy_management;Naturgy;2021;1;cualitativo
+%_renewable_energy;Naturgy;2021;0;cuantitativo
+external_audit;Inditex;2017;1;cuantitativo
+2030_commitment;Inditex;2017;1;cualitativo
+waste_management;Inditex;2017;1;cualitativo
+biodiversity_commitment;Inditex;2017;1;cualitativo
+climate_strategy;Inditex;2017;0;cualitativo
+recognized_env_standard;Inditex;2017;1;cualitativo
+circular_economy;Inditex;2017;0;cualitativo
+energy_management;Inditex;2017;1;cualitativo
+packaging;Inditex;2017;1;cualitativo
+product_stewardship;Inditex;2017;1;cualitativo
+circular_fashion;Inditex;2017;1;cualitativo
+%_renewable_energy;Inditex;2017;0;cuantitativo
+%_recycled_waste;Inditex;2017;0;cuantitativo
+%_recycled_haz_waste;Inditex;2017;0;cuantitativo
+%_recycled_nonhaz_waste;Inditex;2017;0;cuantitativo
+external_audit;Inditex;2018;0;cuantitativo
+2030_commitment;Inditex;2018;0;cualitativo
+waste_management;Inditex;2018;1;cualitativo
+biodiversity_commitment;Inditex;2018;1;cualitativo
+climate_strategy;Inditex;2018;0;cualitativo
+recognized_env_standard;Inditex;2018;0;cualitativo
+circular_economy;Inditex;2018;1;cualitativo
+energy_management;Inditex;2018;0;cualitativo
+packaging;Inditex;2018;1;cualitativo
+product_stewardship;Inditex;2018;0;cualitativo
+circular_fashion;Inditex;2018;1;cualitativo
+%_renewable_energy;Inditex;2018;0.13;cuantitativo
+%_recycled_waste;Inditex;2018;0;cuantitativo
+%_recycled_haz_waste;Inditex;2018;0;cuantitativo
+%_recycled_nonhaz_waste;Inditex;2018;0;cuantitativo
+external_audit;Inditex;2019;0;cuantitativo
+2030_commitment;Inditex;2019;1;cualitativo
+waste_management;Inditex;2019;1;cualitativo
+biodiversity_commitment;Inditex;2019;1;cualitativo
+climate_strategy;Inditex;2019;0;cualitativo
+recognized_env_standard;Inditex;2019;1;cualitativo
+circular_economy;Inditex;2019;1;cualitativo
+energy_management;Inditex;2019;1;cualitativo
+packaging;Inditex;2019;1;cualitativo
+product_stewardship;Inditex;2019;0;cualitativo
+circular_fashion;Inditex;2019;1;cualitativo
+%_renewable_energy;Inditex;2019;0.63;cuantitativo
+%_recycled_waste;Inditex;2019;0;cuantitativo
+%_recycled_haz_waste;Inditex;2019;0;cuantitativo
+%_recycled_nonhaz_waste;Inditex;2019;0;cuantitativo
+external_audit;Inditex;2020;1;cuantitativo
+2030_commitment;Inditex;2020;1;cualitativo
+waste_management;Inditex;2020;1;cualitativo
+biodiversity_commitment;Inditex;2020;1;cualitativo
+climate_strategy;Inditex;2020;1;cualitativo
+recognized_env_standard;Inditex;2020;0;cualitativo
+circular_economy;Inditex;2020;1;cualitativo
+energy_management;Inditex;2020;0;cualitativo
+packaging;Inditex;2020;1;cualitativo
+product_stewardship;Inditex;2020;1;cualitativo
+circular_fashion;Inditex;2020;1;cualitativo
+%_renewable_energy;Inditex;2020;0;cuantitativo
+%_recycled_waste;Inditex;2020;0;cuantitativo
+%_recycled_haz_waste;Inditex;2020;0;cuantitativo
+%_recycled_nonhaz_waste;Inditex;2020;0;cuantitativo
+external_audit;Inditex;2021;1;cuantitativo
+2030_commitment;Inditex;2021;1;cualitativo
+waste_management;Inditex;2021;1;cualitativo
+biodiversity_commitment;Inditex;2021;0;cualitativo
+climate_strategy;Inditex;2021;0;cualitativo
+recognized_env_standard;Inditex;2021;1;cualitativo
+circular_economy;Inditex;2021;1;cualitativo
+energy_management;Inditex;2021;0;cualitativo
+packaging;Inditex;2021;1;cualitativo
+product_stewardship;Inditex;2021;1;cualitativo
+circular_fashion;Inditex;2021;1;cualitativo
+%_renewable_energy;Inditex;2021;0.91;cuantitativo
+%_recycled_waste;Inditex;2021;0;cuantitativo
+%_recycled_haz_waste;Inditex;2021;0;cuantitativo
+%_recycled_nonhaz_waste;Inditex;2021;0;cuantitativo
+recognized_env_standard;Mapfre;2017;1;cuantitativo
+2030_commitment;Mapfre;2017;1;cualitativo
+climate_strategy;Mapfre;2017;0;cualitativo
+energy_management;Mapfre;2017;0;cualitativo
+decarbonization_strategy;Mapfre;2017;0;cualitativo
+%_renewable_energy;Mapfre;2017;1;cuantitativo
+recognized_env_standard;Mapfre;2018;1;cuantitativo
+2030_commitment;Mapfre;2018;0;cualitativo
+climate_strategy;Mapfre;2018;1;cualitativo
+energy_management;Mapfre;2018;1;cualitativo
+decarbonization_strategy;Mapfre;2018;1;cualitativo
+%_renewable_energy;Mapfre;2018;0.58;cuantitativo
+recognized_env_standard;Mapfre;2019;1;cuantitativo
+2030_commitment;Mapfre;2019;1;cualitativo
+climate_strategy;Mapfre;2019;1;cualitativo
+energy_management;Mapfre;2019;1;cualitativo
+decarbonization_strategy;Mapfre;2019;1;cualitativo
+%_renewable_energy;Mapfre;2019;0.013;cuantitativo
+recognized_env_standard;Mapfre;2020;1;cuantitativo
+2030_commitment;Mapfre;2020;0;cualitativo
+climate_strategy;Mapfre;2020;1;cualitativo
+energy_management;Mapfre;2020;1;cualitativo
+decarbonization_strategy;Mapfre;2020;0;cualitativo
+%_renewable_energy;Mapfre;2020;0.247;cuantitativo
+recognized_env_standard;Mapfre;2020;1;cuantitativo
+2030_commitment;Mapfre;2021;1;cualitativo
+climate_strategy;Mapfre;2021;1;cualitativo
+energy_management;Mapfre;2021;1;cualitativo
+decarbonization_strategy;Mapfre;2021;1;cualitativo
+%_renewable_energy;Mapfre;2021;0;cuantitativo
+external_audit;Telefonica;2017;1;cualitativo
+2030_commitment;Telefonica;2017;1;cualitativo
+biodiversity_commitment;Telefonica;2017;0;cualitativo
+climate_strategy;Telefonica;2017;1;cualitativo
+recognized_env_standard;Telefonica;2017;0;cualitativo
+energy_management;Telefonica;2017;0;cualitativo
+%_renewable_energy;Telefonica;2017;1;cuantitativo
+external_audit;Telefonica;2018;0;cualitativo
+2030_commitment;Telefonica;2018;1;cualitativo
+biodiversity_commitment;Telefonica;2018;0;cualitativo
+climate_strategy;Telefonica;2018;0;cualitativo
+recognized_env_standard;Telefonica;2018;0;cualitativo
+energy_management;Telefonica;2018;0;cualitativo
+%_renewable_energy;Telefonica;2018;1;cuantitativo
+external_audit;Telefonica;2019;0;cualitativo
+2030_commitment;Telefonica;2019;1;cualitativo
+biodiversity_commitment;Telefonica;2019;0;cualitativo
+climate_strategy;Telefonica;2019;1;cualitativo
+recognized_env_standard;Telefonica;2019;0;cualitativo
+energy_management;Telefonica;2019;0;cualitativo
+%_renewable_energy;Telefonica;2019;0;cuantitativo
+external_audit;Telefonica;2020;0;cualitativo
+2030_commitment;Telefonica;2020;0;cualitativo
+biodiversity_commitment;Telefonica;2020;0;cualitativo
+climate_strategy;Telefonica;2020;0;cualitativo
+recognized_env_standard;Telefonica;2020;0;cualitativo
+energy_management;Telefonica;2020;0;cualitativo
+%_renewable_energy;Telefonica;2020;1;cuantitativo
+external_audit;Telefonica;2021;0;cualitativo
+2030_commitment;Telefonica;2021;0;cualitativo
+biodiversity_commitment;Telefonica;2021;0;cualitativo
+climate_strategy;Telefonica;2021;1;cualitativo
+recognized_env_standard;Telefonica;2021;0;cualitativo
+energy_management;Telefonica;2021;0;cualitativo
+%_renewable_energy;Telefonica;2021;1;cuantitativo
+external_audit;Acciona Energías;2020;1;cuantitativo
+2030_commitment;Acciona Energías;2020;0;cualitativo
+biodiversity_commitment;Acciona Energías;2020;0;cualitativo
+climate_strategy;Acciona Energías;2020;0;cualitativo
+recognized_env_standard;Acciona Energías;2020;0;cualitativo
+energy_management;Acciona Energías;2020;1;cualitativo
+%_renewable_energy;Acciona Energías;2020;0;cuantitativo
+external_audit;Acciona Energías;2021;0;cuantitativo
+2030_commitment;Acciona Energías;2021;0;cualitativo
+biodiversity_commitment;Acciona Energías;2021;1;cualitativo
+climate_strategy;Acciona Energías;2021;0;cualitativo
+recognized_env_standard;Acciona Energías;2021;1;cualitativo
+energy_management;Acciona Energías;2021;1;cualitativo
+%_renewable_energy;Acciona Energías;2021;0;cuantitativo
+external_audit;Merlin Properties;2017;0;cuantitativo
+2030_commitment;Merlin Properties;2017;0;cualitativo
+biodiversity_commitment;Merlin Properties;2017;0;cualitativo
+climate_strategy;Merlin Properties;2017;0;cualitativo
+green_buildings;Merlin Properties;2017;1;cualitativo
+recognized_env_standard;Merlin Properties;2017;0;cualitativo
+energy_management;Merlin Properties;2017;1;cualitativo
+building_materials;Merlin Properties;2017;1;cualitativo
+resource_efficiency;Merlin Properties;2017;1;cualitativo
+%_renewable_energy;Merlin Properties;2017;0;cuantitativo
+external_audit;Merlin Properties;2018;1;cuantitativo
+2030_commitment;Merlin Properties;2018;0;cualitativo
+biodiversity_commitment;Merlin Properties;2018;0;cualitativo
+climate_strategy;Merlin Properties;2018;0;cualitativo
+green_buildings;Merlin Properties;2018;1;cualitativo
+recognized_env_standard;Merlin Properties;2018;0;cualitativo
+energy_management;Merlin Properties;2018;0;cualitativo
+building_materials;Merlin Properties;2018;1;cualitativo
+resource_efficiency;Merlin Properties;2018;0;cualitativo
+%_renewable_energy;Merlin Properties;2018;0;cuantitativo
+external_audit;Merlin Properties;2019;0;cuantitativo
+2030_commitment;Merlin Properties;2019;0;cualitativo
+biodiversity_commitment;Merlin Properties;2019;0;cualitativo
+climate_strategy;Merlin Properties;2019;0;cualitativo
+green_buildings;Merlin Properties;2019;1;cualitativo
+recognized_env_standard;Merlin Properties;2019;1;cualitativo
+energy_management;Merlin Properties;2019;0;cualitativo
+building_materials;Merlin Properties;2019;1;cualitativo
+resource_efficiency;Merlin Properties;2019;0;cualitativo
+%_renewable_energy;Merlin Properties;2019;0.113;cuantitativo
+external_audit;Merlin Properties;2020;0;cuantitativo
+2030_commitment;Merlin Properties;2020;0;cualitativo
+biodiversity_commitment;Merlin Properties;2020;0;cualitativo
+climate_strategy;Merlin Properties;2020;0;cualitativo
+green_buildings;Merlin Properties;2020;1;cualitativo
+recognized_env_standard;Merlin Properties;2020;0;cualitativo
+energy_management;Merlin Properties;2020;0;cualitativo
+building_materials;Merlin Properties;2020;0;cualitativo
+resource_efficiency;Merlin Properties;2020;0;cualitativo
+%_renewable_energy;Merlin Properties;2020;0;cuantitativo
+external_audit;Merlin Properties;2021;1;cuantitativo
+2030_commitment;Merlin Properties;2021;1;cualitativo
+biodiversity_commitment;Merlin Properties;2021;0;cualitativo
+climate_strategy;Merlin Properties;2021;1;cualitativo
+green_buildings;Merlin Properties;2021;1;cualitativo
+recognized_env_standard;Merlin Properties;2021;1;cualitativo
+energy_management;Merlin Properties;2021;1;cualitativo
+building_materials;Merlin Properties;2021;1;cualitativo
+resource_efficiency;Merlin Properties;2021;0;cualitativo
+%_renewable_energy;Merlin Properties;2021;0;cuantitativo
+external_audit;Sacyr;2017;0;cuantitativo
+2030_commitment;Sacyr;2017;0;cualitativo
+biodiversity_commitment;Sacyr;2017;1;cualitativo
+climate_strategy;Sacyr;2017;0;cualitativo
+green_buildings;Sacyr;2017;1;cualitativo
+recognized_env_standard;Sacyr;2017;1;cualitativo
+energy_management;Sacyr;2017;1;cualitativo
+building_materials;Sacyr;2017;1;cualitativo
+resource_efficiency;Sacyr;2017;1;cualitativo
+%_renewable_energy;Sacyr;2017;0;cuantitativo
+external_audit;Sacyr;2018;0;cuantitativo
+2030_commitment;Sacyr;2018;0;cualitativo
+biodiversity_commitment;Sacyr;2018;0;cualitativo
+climate_strategy;Sacyr;2018;0;cualitativo
+green_buildings;Sacyr;2018;0;cualitativo
+recognized_env_standard;Sacyr;2018;1;cualitativo
+energy_management;Sacyr;2018;1;cualitativo
+building_materials;Sacyr;2018;1;cualitativo
+resource_efficiency;Sacyr;2018;1;cualitativo
+%_renewable_energy;Sacyr;2018;0;cuantitativo
+external_audit;Sacyr;2019;0;cuantitativo
+2030_commitment;Sacyr;2019;1;cualitativo
+biodiversity_commitment;Sacyr;2019;1;cualitativo
+climate_strategy;Sacyr;2019;1;cualitativo
+green_buildings;Sacyr;2019;1;cualitativo
+recognized_env_standard;Sacyr;2019;1;cualitativo
+energy_management;Sacyr;2019;0;cualitativo
+building_materials;Sacyr;2019;1;cualitativo
+resource_efficiency;Sacyr;2019;0;cualitativo
+%_renewable_energy;Sacyr;2019;0;cuantitativo
+external_audit;Sacyr;2020;0;cuantitativo
+2030_commitment;Sacyr;2020;0;cualitativo
+biodiversity_commitment;Sacyr;2020;1;cualitativo
+climate_strategy;Sacyr;2020;1;cualitativo
+green_buildings;Sacyr;2020;0;cualitativo
+recognized_env_standard;Sacyr;2020;1;cualitativo
+energy_management;Sacyr;2020;1;cualitativo
+building_materials;Sacyr;2020;1;cualitativo
+resource_efficiency;Sacyr;2020;1;cualitativo
+%_renewable_energy;Sacyr;2020;0;cuantitativo
+external_audit;Sacyr;2021;0;cuantitativo
+2030_commitment;Sacyr;2021;1;cualitativo
+biodiversity_commitment;Sacyr;2021;1;cualitativo
+climate_strategy;Sacyr;2021;1;cualitativo
+green_buildings;Sacyr;2021;1;cualitativo
+recognized_env_standard;Sacyr;2021;1;cualitativo
+energy_management;Sacyr;2021;1;cualitativo
+building_materials;Sacyr;2021;1;cualitativo
+resource_efficiency;Sacyr;2021;1;cualitativo
+%_renewable_energy;Sacyr;2021;0;cuantitativo
+external_audit;Logista;2017;1;cuantitativo
+2030_commitment;Logista;2017;0;cualitativo
+biodiversity_commitment;Logista;2017;0;cualitativo
+climate_strategy;Logista;2017;0;cualitativo
+electric_vehicles;Logista;2017;1;cualitativo
+recognized_env_standard;Logista;2017;1;cualitativo
+energy_management;Logista;2017;1;cualitativo
+fleet_management;Logista;2017;0;cualitativo
+fuel_efficiency;Logista;2017;0;cualitativo
+%_renewable_energy;Logista;2017;0;cuantitativo
+external_audit;Logista;2018;0;cuantitativo
+2030_commitment;Logista;2018;0;cualitativo
+biodiversity_commitment;Logista;2018;0;cualitativo
+climate_strategy;Logista;2018;0;cualitativo
+electric_vehicles;Logista;2018;1;cualitativo
+recognized_env_standard;Logista;2018;1;cualitativo
+energy_management;Logista;2018;1;cualitativo
+fleet_management;Logista;2018;0;cualitativo
+fuel_efficiency;Logista;2018;0;cualitativo
+%_renewable_energy;Logista;2018;0;cuantitativo
+external_audit;Logista;2019;0;cuantitativo
+2030_commitment;Logista;2019;0;cualitativo
+biodiversity_commitment;Logista;2019;0;cualitativo
+climate_strategy;Logista;2019;0;cualitativo
+electric_vehicles;Logista;2019;1;cualitativo
+recognized_env_standard;Logista;2019;1;cualitativo
+energy_management;Logista;2019;1;cualitativo
+fleet_management;Logista;2019;0;cualitativo
+fuel_efficiency;Logista;2019;0;cualitativo
+%_renewable_energy;Logista;2019;0;cuantitativo
+external_audit;Logista;2020;0;cuantitativo
+2030_commitment;Logista;2020;0;cualitativo
+biodiversity_commitment;Logista;2020;0;cualitativo
+climate_strategy;Logista;2020;1;cualitativo
+electric_vehicles;Logista;2020;0;cualitativo
+recognized_env_standard;Logista;2020;1;cualitativo
+energy_management;Logista;2020;1;cualitativo
+fleet_management;Logista;2020;0;cualitativo
+fuel_efficiency;Logista;2020;0;cualitativo
+%_renewable_energy;Logista;2020;0;cuantitativo
+external_audit;Logista;2021;0;cuantitativo
+2030_commitment;Logista;2021;0;cualitativo
+biodiversity_commitment;Logista;2021;0;cualitativo
+climate_strategy;Logista;2021;1;cualitativo
+electric_vehicles;Logista;2021;0;cualitativo
+recognized_env_standard;Logista;2021;1;cualitativo
+energy_management;Logista;2021;1;cualitativo
+fleet_management;Logista;2021;0;cualitativo
+fuel_efficiency;Logista;2021;1;cualitativo
+%_renewable_energy;Logista;2021;0.99;cuantitativo
+external_audit;Solaria;2019;0;cuantitativo
+2030_commitment;Solaria;2019;0;cualitativo
+biodiversity_commitment;Solaria;2019;0;cualitativo
+climate_strategy;Solaria;2019;0;cualitativo
+recognized_env_standard;Solaria;2019;0;cualitativo
+energy_management;Solaria;2019;0;cualitativo
+%_renewable_energy;Solaria;2019;0;cuantitativo
+external_audit;Solaria;2020;0;cuantitativo
+2030_commitment;Solaria;2020;0;cualitativo
+biodiversity_commitment;Solaria;2020;0;cualitativo
+climate_strategy;Solaria;2020;1;cualitativo
+recognized_env_standard;Solaria;2020;0;cualitativo
+energy_management;Solaria;2020;0;cualitativo
+%_renewable_energy;Solaria;2020;0;cuantitativo
+external_audit;Solaria;2021;0;cuantitativo
+2030_commitment;Solaria;2021;0;cualitativo
+biodiversity_commitment;Solaria;2021;1;cualitativo
+climate_strategy;Solaria;2021;1;cualitativo
+recognized_env_standard;Solaria;2021;0;cualitativo
+energy_management;Solaria;2021;0;cualitativo
+%_renewable_energy;Solaria;2021;0;cuantitativo
+external_audit;Repsol;2017;0;cuantitativo
+2030_commitment;Repsol;2017;0;cualitativo
+biodiversity_commitment;Repsol;2017;1;cualitativo
+climate_strategy;Repsol;2017;1;cualitativo
+water_management;Repsol;2017;1;cualitativo
+recognized_env_standard;Repsol;2017;0;cualitativo
+energy_management;Repsol;2017;0;cualitativo
+%_renewable_energy;Repsol;2017;0;cuantitativo
+%_recycled_water;Repsol;2017;0;cuantitativo
+external_audit;Repsol;2018;0;cuantitativo
+2030_commitment;Repsol;2018;1;cualitativo
+biodiversity_commitment;Repsol;2018;1;cualitativo
+climate_strategy;Repsol;2018;1;cualitativo
+water_management;Repsol;2018;1;cualitativo
+recognized_env_standard;Repsol;2018;1;cualitativo
+energy_management;Repsol;2018;1;cualitativo
+%_renewable_energy;Repsol;2018;0;cuantitativo
+%_recycled_water;Repsol;2018;0;cuantitativo
+external_audit;Repsol;2019;0;cuantitativo
+2030_commitment;Repsol;2019;1;cualitativo
+biodiversity_commitment;Repsol;2019;1;cualitativo
+climate_strategy;Repsol;2019;0;cualitativo
+water_management;Repsol;2019;1;cualitativo
+recognized_env_standard;Repsol;2019;1;cualitativo
+energy_management;Repsol;2019;1;cualitativo
+%_renewable_energy;Repsol;2019;0;cuantitativo
+%_recycled_water;Repsol;2019;0;cuantitativo
+external_audit;Repsol;2020;0;cuantitativo
+2030_commitment;Repsol;2020;1;cualitativo
+biodiversity_commitment;Repsol;2020;0;cualitativo
+climate_strategy;Repsol;2020;1;cualitativo
+water_management;Repsol;2020;1;cualitativo
+recognized_env_standard;Repsol;2020;0;cualitativo
+energy_management;Repsol;2020;1;cualitativo
+%_renewable_energy;Repsol;2020;0;cuantitativo
+%_recycled_water;Repsol;2020;0;cuantitativo
+external_audit;Repsol;2021;1;cuantitativo
+2030_commitment;Repsol;2021;1;cualitativo
+biodiversity_commitment;Repsol;2021;1;cualitativo
+climate_strategy;Repsol;2021;1;cualitativo
+water_management;Repsol;2021;0;cualitativo
+recognized_env_standard;Repsol;2021;0;cualitativo
+energy_management;Repsol;2021;1;cualitativo
+%_renewable_energy;Repsol;2021;0;cuantitativo
+%_recycled_water;Repsol;2021;0.35;cuantitativo
+external_audit;Rovi;2017;1;cuantitativo
+2030_commitment;Rovi;2017;0;cualitativo
+biodiversity_commitment;Rovi;2017;1;cualitativo
+climate_strategy;Rovi;2017;0;cualitativo
+recognized_env_standard;Rovi;2017;0;cualitativo
+energy_management;Rovi;2017;0;cualitativo
+%_renewable_energy;Rovi;2017;0;cuantitativo
+external_audit;Rovi;2018;0;cuantitativo
+2030_commitment;Rovi;2018;0;cualitativo
+biodiversity_commitment;Rovi;2018;0;cualitativo
+climate_strategy;Rovi;2018;0;cualitativo
+recognized_env_standard;Rovi;2018;1;cualitativo
+energy_management;Rovi;2018;1;cualitativo
+%_renewable_energy;Rovi;2018;0;cuantitativo
+external_audit;Rovi;2019;0;cuantitativo
+2030_commitment;Rovi;2019;0;cualitativo
+biodiversity_commitment;Rovi;2019;0;cualitativo
+climate_strategy;Rovi;2019;0;cualitativo
+recognized_env_standard;Rovi;2019;1;cualitativo
+energy_management;Rovi;2019;0;cualitativo
+%_renewable_energy;Rovi;2019;0;cuantitativo
+external_audit;Rovi;2020;0;cuantitativo
+2030_commitment;Rovi;2020;0;cualitativo
+biodiversity_commitment;Rovi;2020;0;cualitativo
+climate_strategy;Rovi;2020;0;cualitativo
+recognized_env_standard;Rovi;2020;1;cualitativo
+energy_management;Rovi;2020;0;cualitativo
+%_renewable_energy;Rovi;2020;0;cuantitativo
+external_audit;Rovi;2021;0;cuantitativo
+2030_commitment;Rovi;2021;0;cualitativo
+biodiversity_commitment;Rovi;2021;1;cualitativo
+climate_strategy;Rovi;2021;0;cualitativo
+recognized_env_standard;Rovi;2021;1;cualitativo
+energy_management;Rovi;2021;1;cualitativo
+%_renewable_energy;Rovi;2021;0;cuantitativo
+2030_commitment;Cellnex;2021;1;cualitativo
+biodiversity_commitment;Cellnex;2021;0;cualitativo
+climate_strategy;Cellnex;2021;1;cualitativo
+recognized_env_standard;Cellnex;2021;1;cualitativo
+energy_management;Cellnex;2021;1;cualitativo
+%_renewable_energy;Cellnex;2021;0;cuantitativo
+external_audit;Aena;2020;1;cualitativo
+2030_commitment;Aena;2020;0;cualitativo
+waste_management;Aena;2020;1;cualitativo
+biodiversity_commitment;Aena;2020;0;cualitativo
+climate_strategy;Aena;2020;1;cualitativo
+electric_vehicles;Aena;2020;1;cualitativo
+recognized_env_standard;Aena;2020;1;cualitativo
+energy_management;Aena;2020;1;cualitativo
+packaging;Aena;2020;1;cualitativo
+fleet_management;Aena;2020;0;cualitativo
+fuel_efficiency;Aena;2020;0;cualitativo
+external_audit;Aena;2021;0;cualitativo
+2030_commitment;Aena;2021;0;cualitativo
+waste_management;Aena;2021;1;cualitativo
+biodiversity_commitment;Aena;2021;0;cualitativo
+climate_strategy;Aena;2021;0;cualitativo
+electric_vehicles;Aena;2021;0;cualitativo
+recognized_env_standard;Aena;2021;1;cualitativo
+energy_management;Aena;2021;1;cualitativo
+packaging;Aena;2021;1;cualitativo
+fleet_management;Aena;2021;0;cualitativo
+fuel_efficiency;Aena;2021;0;cualitativo
+external_audit;Bankinter;2017;1;cualitativo
+2030_commitment;Bankinter;2017;0;cualitativo
+climate_strategy;Bankinter;2017;0;cualitativo
+recognized_env_standard;Bankinter;2017;1;cualitativo
+energy_management;Bankinter;2017;1;cualitativo
+decarbonization_strategy;Bankinter;2017;0;cualitativo
+%_renewable_energy;Bankinter;2017;0;cuantitativo
+external_audit;BBVA;2020;1;cualitativo
+2030_commitment;BBVA;2020;0;cualitativo
+climate_strategy;BBVA;2020;1;cualitativo
+recognized_env_standard;BBVA;2020;1;cualitativo
+energy_management;BBVA;2020;1;cualitativo
+decarbonization_strategy;BBVA;2020;0;cualitativo
+%_renewable_energy;BBVA;2020;0;cuantitativo
+external_audit;BBVA;2021;1;cualitativo
+2030_commitment;BBVA;2021;1;cualitativo
+climate_strategy;BBVA;2021;1;cualitativo
+recognized_env_standard;BBVA;2021;1;cualitativo
+energy_management;BBVA;2021;1;cualitativo
+decarbonization_strategy;BBVA;2021;1;cualitativo
+%_renewable_energy;BBVA;2021;0.65;cuantitativo
+%_renewable_energy;IAG;2021;0;cuantitativo
+%_recycled_waste;IAG;2021;0;cuantitativo
+%_recycled_haz_waste;IAG;2021;0;cuantitativo
+%_recycled_nonhaz_waste;IAG;2021;0;cuantitativo
+external_audit;Melia;2019;0;cualitativo
+2030_commitment;Melia;2019;0;cualitativo
+waste_management;Melia;2019;1;cualitativo
+biodiversity_commitment;Melia;2019;1;cualitativo
+climate_strategy;Melia;2019;0;cualitativo
+recognized_env_standard;Melia;2019;0;cualitativo
+energy_management;Melia;2019;0;cualitativo
+food_loss_waste;Melia;2019;0;cualitativo
+packaging;Melia;2019;1;cualitativo
+external_audit;Melia;2020;0;cualitativo
+2030_commitment;Melia;2020;0;cualitativo
+waste_management;Melia;2020;1;cualitativo
+biodiversity_commitment;Melia;2020;0;cualitativo
+climate_strategy;Melia;2020;0;cualitativo
+recognized_env_standard;Melia;2020;0;cualitativo
+energy_management;Melia;2020;1;cualitativo
+food_loss_waste;Melia;2020;0;cualitativo
+packaging;Melia;2020;0;cualitativo
+external_audit;Melia;2021;0;cualitativo
+2030_commitment;Melia;2021;0;cualitativo
+waste_management;Melia;2021;1;cualitativo
+biodiversity_commitment;Melia;2021;1;cualitativo
+climate_strategy;Melia;2021;1;cualitativo
+recognized_env_standard;Melia;2021;0;cualitativo
+energy_management;Melia;2021;1;cualitativo
+food_loss_waste;Melia;2021;0;cualitativo
+packaging;Melia;2021;1;cualitativo
+%_renewable_energy;Melia;2019;0.59;cuantitativo
+%_recycled_waste;Melia;2019;0;cuantitativo
+%_recycled_haz_waste;Melia;2019;0;cuantitativo
+%_recycled_nonhaz_waste;Melia;2019;0;cuantitativo
+%_renewable_energy;Melia;2020;1;cuantitativo
+%_recycled_waste;Melia;2020;0;cuantitativo
+%_recycled_haz_waste;Melia;2020;0;cuantitativo
+%_recycled_nonhaz_waste;Melia;2020;0;cuantitativo
+%_renewable_energy;Melia;2021;1;cuantitativo
+%_recycled_waste;Melia;2021;0;cuantitativo
+%_recycled_haz_waste;Melia;2021;0;cuantitativo
+%_recycled_nonhaz_waste;Melia;2021;0;cuantitativo
+biodiversity_commitment;Amadeus;2021;0;cualitativo
+biodiversity_commitment;Amadeus;2020;0;cualitativo
+biodiversity_commitment;Amadeus;2019;0;cualitativo
+biodiversity_commitment;Amadeus;2018;0;cualitativo
+biodiversity_commitment;Amadeus;2017;0;cualitativo
+biodiversity_commitment;Indra;2021;0;cualitativo
+biodiversity_commitment;Indra;2020;0;cualitativo
+biodiversity_commitment;Indra;2019;0;cualitativo
+biodiversity_commitment;Indra;2018;0;cualitativo
+biodiversity_commitment;Indra;2017;0;cualitativo
+%_reduction_co2_2030;Red Eléctrica;2021;0.6;cuantitativo
+%_reduction_co2_2030;Red Eléctrica;2020;0.4;cuantitativo
+%_reduction_co2_2030;Red Eléctrica;2019;0.25;cuantitativo
+%_reduction_co2_2030;Red Eléctrica;2018;0.4;cuantitativo
+%_reduction_co2_2030;Red Eléctrica;2017;0.23;cuantitativo
