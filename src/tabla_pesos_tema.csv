@@ -14,7 +14,6 @@
 11.11;Environmental Reporting;Banks
 6.25;Environmental Reporting;Construction & Engineering
 18.18;Environmental Reporting;Pharmaceuticals
-;;
 9.375;Environmental Reporting;Metals and mining
 6.66;Environmental Reporting;Airlines
 9.68;Environmental Reporting;Electronic Equipent, Instruments & Components
@@ -26,7 +25,6 @@
 15;Environmental Policy & Management Systems;Insurance
 15.625;Environmental Policy & Management Systems;Construction & Engineering
 18.18;Environmental Policy & Management Systems;Pharmaceuticals
-;;
 12.5;Environmental Policy & Management Systems;Metals and mining
 13.4;Environmental Policy & Management Systems;Airlines
 19.35;Environmental Policy & Management Systems;Electronic Equipent, Instruments & Components
@@ -39,7 +37,6 @@
 38.89;Climate Strategy;Banks
 18.75;Climate Strategy;Construction & Engineering
 18.18;Climate Strategy;Pharmaceuticals
-;;
 11.54;Climate Strategy;Textiles
 21.875;Climate Strategy;Metals and mining
 20;Climate Strategy;Airlines
@@ -50,7 +47,6 @@
 28.125;Climate Strategy;Oil and gas refining
 6.25;Biodiversity;Construction & Engineering
 18.18;Biodiversity;Pharmaceuticals
-;;
 9.375;Biodiversity;Metals and mining
 6.66;Biodiversity;Airlines
 6.45;Biodiversity;Electronic Equipent, Instruments & Components
@@ -75,3 +71,16 @@
 21.875;Operational Eco-Efficiency;Metals and mining
 27.27;Operational Eco-Efficiency;Pharmaceuticals
 33.33;Operational Eco-Efficiency;Telecommunication
+21.05;Operational Eco-Efficiency;Real Estate
+18.42;Resource Conservation & Resource Efficiency;Real Estate
+15.79;Climate Strategy;Real Estate
+13.16;Environmental Policy & Management Systems;Real Estate
+10.53;Environmental Reporting;Real Estate
+10.53;Biodiversity;Real Estate
+10.53;Building Materials;Real Estate
+7.14;Environmental Reporting;Transportation Infraestructure
+17.86;Environmental Policy & Management Systems;Transportation Infraestructure
+32.14;Operational Eco-Efficiency;Transportation Infraestructure
+25;Climate Strategy;Transportation Infraestructure
+7.14;Biodiversity;Transportation Infraestructure
+10.71;Fleet Management;Transportation Infraestructure
