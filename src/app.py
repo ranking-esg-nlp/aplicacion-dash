@@ -63,9 +63,34 @@ empresas_disponibles = [x for x in empresas_disponibles if pd.isnull(x) == False
 años_disponibles = [x for x in años_disponibles if np.isnan(x) == False]
 
 sectores= pd.read_csv('tabla_sectores_it3.csv', sep=';')
-rating= pd.read_csv('resultados_rating_app.csv')
-informados= pd.read_csv('porc_informadas_app.csv')
+rating= pd.read_csv('resultados_rating_app_2.csv')
+informados= pd.read_csv('porc_informadas_app_2.csv')
 tabla_pesos=pd.read_csv('tabla_pesos_tema.csv', sep=';')
+
+clarity=pd.read_csv('rating_clarity_ibex35.csv', sep=';')
+rating=rating.rename(columns={'empresas':'empresa'})
+comparacion=clarity.merge(rating, on='empresa')
+comparacion=comparacion[comparacion.año==2021]
+comparacion=comparacion.loc[:,['empresa','rating_clarity','score','score_cualitativo']]
+
+percentiles_clarity=[]
+arry = comparacion['rating_clarity']
+for i in range(0,100,1):
+  percentile = np.percentile(arry, i)
+  percentiles_clarity.append(percentile)
+
+
+percentiles_nuestro=[]
+arry = comparacion['score']
+for i in range(0,100,1):
+  percentile = np.percentile(arry, i)
+  percentiles_nuestro.append(percentile)
+
+percentiles_nuestro_cual=[]
+arry = comparacion['score_cualitativo']
+for i in range(0,100,1):
+  percentile = np.percentile(arry, i)
+  percentiles_nuestro_cual.append(percentile)
 
 controls = FormGroup(
     [
@@ -180,9 +205,9 @@ content_first_row = Row([
 
 
 content_tab_1 = Row([
-    Col([
+    Row([
 
-        Row(
+        Col(
         html.Div([
 
             html.Br(),
@@ -193,64 +218,62 @@ content_tab_1 = Row([
             html.Br(),
             dash_table.DataTable(
             id='table-nir',editable=True,
-            style_cell={'padding': '5px'},
+            style_cell={'padding': '5px','textAlign': 'center'},
+            style_data={ 'border': '1px  blue' },
+    
             style_header={
-            'backgroundColor': 'grey',
-            'fontWeight': 'bold'
+            'backgroundColor': 'PowderBlue',
+            'fontWeight': 'bold','border': '1px blue' 
     }
             
-            )])
+            )]), width=4
 
         )
         ,
-        Row(
+        Col(
         html.Div([
 
             html.Br(),
-            html.Br(),
-            html.Br(),
-            html.Br(),
-            html.Br(),
-            html.H1(children='COMPARACIÓN CON EL SECTOR',style={
+            html.H1(children='CONTRIBUCCIÓN EN PESOS DE LOS TEMAS',style={
             
             'color': colors['text'], 'textAlign': 'center','font-size':'large'
                 }),
-            html.Br(),
+            
             dcc.Graph(
-            id='graph-sector'
+            id='graph-pesos'
         )
-            ])
+            ]), width=8
 
         )
 
 
 
-    ],md=3,width=3,
+    ]
     ),
 
 
-    Col([
+    Row([
         
-        Row(
+        Col(
             
         html.Div([
-            html.Br(),
-            html.H1(children='CONTRIBUCCIÓN EN PESOS DE LOS TEMAS',style={
+            
+            html.H1(children='COMPARACIÓN CON EL SECTOR',style={
             
             'color': colors['text'],'textAlign': 'center', 'font-size':'large'
         }),
         
         dcc.Graph(
-            id='graph-pesos'
+            id='graph-sector'
         )
             
-            ])
+            ]), width=6
         
     )
     
     ,
 
-            Row(
+            Col(
         html.Div([
             
            
@@ -263,13 +286,13 @@ content_tab_1 = Row([
             id='graph-hist'
         )
             
-            ])
+            ]), width=6
         
     )],
     
     
     
-        md=3,width={"size": 9, "offset": 3}
+        
     
     ),
 
@@ -283,10 +306,7 @@ content_tab_2 = Col([
         
         html.Div([
             html.Br(),
-            html.H1(children='COMPARACIÓN IBEX 35',style={
             
-            'color': colors['text'],'textAlign': 'center', 'font-size':'large'
-        }),
         html.Br(),
     
         dcc.Graph(
@@ -295,34 +315,35 @@ content_tab_2 = Col([
             ])
          ,],justify="center"),
 
+       
+
+        
+        ])
+
+content_tab_3 = Col([
+
         Row([
 
         
         html.Div([
             html.Br(),
-            html.H1(children='% INDICADORES INFORMADOS',style={
             
-            'color': colors['text'],'textAlign': 'center', 'font-size':'large'
-        }),
-
         html.Br(),
-        dcc.Graph(
-            id='graph-informados'
-        )
-            
-            ])
-        
     
-        ,],justify="center"),])
+        dcc.Graph(
+            id='graph-percentiles'
+        )     
+            ])
+         ,],justify="center"),
+
+       
+
+        
+        ])
 
         
 
        
-    
-  
-
-    
-
 
 
 content = html2.Div(
@@ -334,8 +355,9 @@ html.Br(),
     
         html2.Hr(),
 
-        dcc.Tabs([
+        dcc.Tabs(id="tabs",value='tabs',children=[
             dcc.Tab(
+
                 label='Información',
                 children = [content_tab_1]
 
@@ -344,6 +366,12 @@ html.Br(),
         dcc.Tab(
                 label='Ranking IBEX 35',
                 children = [content_tab_2]
+
+            ),
+
+        dcc.Tab(
+                label='Comparación de percentiles Clarity ',
+                children = [content_tab_3]
 
             ),
 
@@ -393,8 +421,8 @@ def update_card_text_3(value_e):
     
    [Input('dropdown_empresas', 'value'),Input('dropdown_años', 'value'), Input('tipo_rating','value')]
     )
-def update_card_text_1( value_e,value_a, tipo_rating):
-    data= rating[rating.empresas==value_e]
+def update_card_text_4( value_e,value_a, tipo_rating):
+    data= rating[rating.empresa==value_e]
     data= data[data.año==value_a]
     if tipo_rating=='total':
         score=data.score
@@ -424,8 +452,8 @@ def update_output(selected_año,selected_empresa, selected_type):
         return [filtered_df.to_dict('records'),col]
 @app.callback(
     Output('graph-pesos', 'figure'),
-    [Input('dropdown_empresas', 'value')])
-def update_figure(empresa):
+    [Input('dropdown_empresas', 'value'),Input('tabs', 'value')])
+def update_figure(empresa,tab):
 
     if empresa!='None'  :
         sector = list(sectores[sectores.empresa == empresa].sector)[0]
@@ -433,23 +461,76 @@ def update_figure(empresa):
         df = tabla_pesos[tabla_pesos.sector==sector]
         
     
-        fig = px.pie(df, values='peso', names='tema',hole=.3,height=600, width=500)
+        fig = px.pie(df, values='peso', names='tema',hole=.3,height=500, width=700)
 
             
             
-        fig.update_layout(transition_duration=500)
-        fig.update_layout(legend=dict(
-            yanchor="top",
-            y=1.50,
-            xanchor="left",
-            x=0.01
-        ))
+        
+        
         return fig
 
 @app.callback(
+    Output('graph-percentiles', 'figure'),
+    [Input('dropdown_empresas', 'value'),Input('tabs', 'value')])
+def update_figure(empresa,tab):
+
+    if empresa!='None'  :
+        score_c=float(comparacion[comparacion.empresa==empresa].rating_clarity)
+        score_n=float(comparacion[comparacion.empresa==empresa].score)
+        score_nc=float(comparacion[comparacion.empresa==empresa].score_cualitativo)
+
+        for i in range(0,99):
+            izq=percentiles_clarity[i]
+            derecho=percentiles_clarity[i+1]
+            
+            if score_c <= derecho and score_c>izq:
+                percentil_c=i
+        for i in range(0,99):
+            izq=percentiles_nuestro[i]
+            derecho=percentiles_nuestro[i+1]
+            
+            if score_n <= derecho and score_n>izq:
+                percentil_n=i
+        for i in range(0,99):
+            izq=percentiles_nuestro_cual[i]
+            derecho=percentiles_nuestro_cual[i+1]
+            
+            if score_nc <= derecho and score_nc>izq:
+                percentil_nc=i
+
+        titulo='Comparación entre ratings - '+ empresa
+        fig = go.Figure()
+
+
+
+        fig.add_trace(go.Scatter(x=list(range(0,100)), y=percentiles_clarity,mode='lines', name='clarity',line = dict(color = 'lightblue')))
+        fig.add_trace(go.Scatter(x=list(range(0,100)), y=percentiles_nuestro,mode='lines', name='nuestro',line = dict(color = 'dodgerblue')))
+        fig.add_trace(go.Scatter(x=list(range(0,100)), y=percentiles_nuestro_cual,mode='lines', name='nuestro cual',line = dict(color = 'darkblue')))
+        
+        fig.add_trace(go.Scatter(x=[percentil_c,percentil_n,percentil_nc], y=[score_c,score_n,score_nc], mode='markers',name=empresa, marker=dict(size=[10,10,10],
+                        color=[ 1,1,1])))
+
+        fig.update_layout(
+
+        xaxis_title='Percentil',
+        yaxis_title="Score",
+        width=int(700),
+        yaxis_range=[0,105],
+        xaxis_range=[0,100],
+        plot_bgcolor='white'
+            )
+        fig.update_xaxes(tickvals=[10,20,30,40,50,60,70,80,90],gridcolor='lightgrey')
+        fig.update_yaxes(tickvals=[10,20,30,40,50,60,70,80,90,100],gridcolor='lightgrey')
+        
+        fig.update_layout(title_text=titulo)
+        
+        return fig
+
+
+@app.callback(
     Output('graph-sector', 'figure'),
-    [Input('dropdown_empresas', 'value'),Input('dropdown_años', 'value'), Input('tipo_rating','value')])
-def update_figure(empresa,value_año,tipo_rating):
+    [Input('dropdown_empresas', 'value'),Input('dropdown_años', 'value'), Input('tipo_rating','value'),Input('tabs', 'value')])
+def update_figure(empresa,value_año,tipo_rating,tab):
 
     if empresa!='None' and value_año!='None'  and tipo_rating!='None'  :
         sector = list(sectores[sectores.empresa == empresa].sector)[0]
@@ -462,7 +543,7 @@ def update_figure(empresa,value_año,tipo_rating):
         if tipo_rating=='total':
             for e in empresas_mismo_sector:
                 try:
-                    data=rating[rating.empresas==e]
+                    data=rating[rating.empresa==e]
 
                     
                     score_s=list(data[data.año==value_año].score)[0]
@@ -482,25 +563,25 @@ def update_figure(empresa,value_año,tipo_rating):
             data_scores['rating'] = data_scores['rating'].astype('float64')
             
             frase="Empresas del sector "+sector
-        
-            fig = px.bar(data_scores, x="empresa", y="rating", title="",height=350, width=500)
+            fig=go.Figure()
+            fig.add_trace(go.Bar(x=data_scores['empresa'], y=data_scores['rating'], marker_color='dodgerblue'))
             fig.update_layout(
             
             xaxis_title=frase,
             yaxis_title="Score",
-            yaxis_range=[0,100],
-            plot_bgcolor=colors['background'],
-            paper_bgcolor=colors['background'],
-            font_color=colors['text']
-        )
+            yaxis_range=[0,105],
+            width=int(500),
+            plot_bgcolor='white'
+            )
+            fig.update_yaxes(tickvals=[10,20,30,40,50,60,70,80,90,100],gridcolor='lightgrey')
             
             
-            fig.update_layout(transition_duration=500)
+            
 
         if tipo_rating=='cual':
             for e in empresas_mismo_sector:
                 try:
-                    data=rating[rating.empresas==e]
+                    data=rating[rating.empresa==e]
 
                     
                     score_s=list(data[data.año==value_año].score_cualitativo)[0]
@@ -520,29 +601,30 @@ def update_figure(empresa,value_año,tipo_rating):
             data_scores['rating'] = data_scores['rating'].astype('float64')
             
             frase="Empresas del sector "+sector
-        
-            fig = px.bar(data_scores, x="empresa", y="rating", title="",height=350, width=500)
+            fig=go.Figure()
+            
+            fig.add_trace(go.Bar(x=data_scores['empresa'], y=data_scores['rating'], marker_color='dodgerblue'))
             fig.update_layout(
             
             xaxis_title=frase,
             yaxis_title="Score",
-            yaxis_range=[0,100],
-            plot_bgcolor=colors['background'],
-            paper_bgcolor=colors['background'],
-            font_color=colors['text']
-        )
+            width=int(500),
+            yaxis_range=[0,105],
+            plot_bgcolor='white'
+            )
+            fig.update_yaxes(tickvals=[10,20,30,40,50,60,70,80,90,100],gridcolor='lightgrey')
             
             
-            fig.update_layout(transition_duration=500)
+            
         return fig
 
 @app.callback(
     Output('graph-hist', 'figure'),
-    [Input('dropdown_empresas', 'value'), Input('tipo_rating','value')])
-def update_figure(empresa,tipo_rating):
+    [Input('dropdown_empresas', 'value'), Input('tipo_rating','value'),Input('tabs', 'value')])
+def update_figure(empresa,tipo_rating,tab):
     if empresa!='None' and tipo_rating!='None'  :
     # para calcular el grafico de su historial
-        data=rating[rating.empresas==empresa]
+        data=rating[rating.empresa==empresa]
         años_disponibles_2=list(data.año.unique())
 
 
@@ -571,7 +653,7 @@ def update_figure(empresa,tipo_rating):
                 empresas_mismo_sector_con_datos=[]
                 for e in empresas_mismo_sector:
                     try:
-                        data=rating[rating.empresas==e]
+                        data=rating[rating.empresa==e]
 
                         
                         score_s=list(data[data.año==año].score)[0]
@@ -615,7 +697,7 @@ def update_figure(empresa,tipo_rating):
                 empresas_mismo_sector_con_datos=[]
                 for e in empresas_mismo_sector:
                     try:
-                        data=rating[rating.empresas==e]
+                        data=rating[rating.empresa==e]
 
                         
                         score_s=list(data[data.año==año].score_cualitativo)[0]
@@ -644,24 +726,22 @@ def update_figure(empresa,tipo_rating):
             nombre_medio='Score medio' +'\n' +sector
             fig = go.Figure()
 
-            fig.add_trace(go.Bar(x=data_scores['años'], y=data_scores['rating'], name=nombre_score))
-            fig.add_trace(go.Scatter(x=data_medio['años'], y=data_medio['rating'], name=nombre_medio,line=dict(color="crimson")))
+            fig.add_trace(go.Bar(x=data_scores['años'], y=data_scores['rating'], name=nombre_score,marker_color='dodgerblue'))
+            fig.add_trace(go.Scatter(x=data_medio['años'], y=data_medio['rating'], name=nombre_medio,line=dict(color="indianred")))
 
             
 
-            #fig = px.bar(data_scores, x="años", y="rating", title="",height=350, width=500)
+            
             fig.update_layout(
             
             xaxis_title='Año',
             yaxis_title="Score",
             width=int(500),
             yaxis_range=[0,100],
-            plot_bgcolor=colors['background'],
-            paper_bgcolor=colors['background'],
-            font_color=colors['text']
+            plot_bgcolor='white'
         )
+            fig.update_yaxes(tickvals=[10,20,30,40,50,60,70,80,90,100],gridcolor='lightgrey')
             
-            fig.update_layout(transition_duration=500)
             fig.update_layout(legend=dict(
             yanchor="top",
             y=1.20,
@@ -672,85 +752,23 @@ def update_figure(empresa,tipo_rating):
         except:
             pass
 
-@app.callback(
-    Output('graph-informados', 'figure'),
-    [Input('dropdown_años', 'value'), Input('tipo_rating','value')])
 
-def update_figure(value_año, tipo):
-    if tipo!='None' and value_año!='None'  :
-        data=informados[informados.año==value_año]
-
-        empresa_disponibles_2=list(data.empresa.unique())
-        
-        if tipo=='total':
-
-            porc=[]
-            for empresa in empresa_disponibles_2:
-                porc_s=list(data[data.empresa==empresa]['%_informadas'])[0]
-                porc.append(porc_s)
-
-            data_scores=pd.DataFrame()
-            data_scores['%_informadas']= porc
-            data_scores['empresa']=empresa_disponibles_2
-            data_scores['%_informadas'] = data_scores['%_informadas'].astype('float64')
-            data_scores['empresa'] = data_scores['empresa'].astype('object')
-            data_scores=data_scores.sort_values('%_informadas', ascending=False)
-            fig = px.bar(data_scores, x="empresa", y="%_informadas", title="",height=350, width=500)
-            fig.update_layout(
-            
-            xaxis_title='Empresa',
-            yaxis_title="%_informadas",
-            yaxis_range=[0,100],
-            plot_bgcolor=colors['background'],
-            paper_bgcolor=colors['background'],
-            font_color=colors['text']
-        )
-            fig.update_layout(width=int(600))
-            fig.update_layout(transition_duration=500)
-            return fig
-        
-        if tipo=='cual':
-            porc=[]
-            for empresa in empresa_disponibles_2:
-                porc_s=list(data[data.empresa==empresa]['%_informadas_cualitativas'])[0]
-                porc.append(porc_s)
-
-            data_scores=pd.DataFrame()
-            data_scores['%_informadas']= porc
-            data_scores['empresa']=empresa_disponibles_2
-            data_scores['%_informadas'] = data_scores['%_informadas'].astype('float64')
-            data_scores['empresa'] = data_scores['empresa'].astype('object')
-            data_scores=data_scores.sort_values('%_informadas', ascending=False)
-            fig = px.bar(data_scores, x="empresa", y="%_informadas", title="",height=350, width=500)
-            fig.update_layout(
-            
-            xaxis_title='Empresa',
-            yaxis_title="%_informadas",
-            yaxis_range=[0,100],
-            plot_bgcolor=colors['background'],
-            paper_bgcolor=colors['background'],
-            font_color=colors['text']
-        )
-            fig.update_layout(width=int(600))
-            fig.update_layout(transition_duration=500)
-
-            return fig
 
 @app.callback(
     Output('graph-ibex', 'figure'),
-    [Input('dropdown_años', 'value'), Input('tipo_rating','value')])
-def update_figure(value_año, tipo):
+    [Input('dropdown_años', 'value'), Input('tipo_rating','value'),Input('tabs', 'value')])
+def update_figure(value_año, tipo,tab):
     if tipo!='None' and value_año!='None'  :
         data=rating[rating.año==value_año]
         data_inf=informados[informados.año==value_año]
-        empresa_disponibles_2=list(data.empresas.unique())
+        empresa_disponibles_2=list(data.empresa.unique())
         
         if tipo=='total':
 
             scores=[]
             porc=[]
             for empresa in empresa_disponibles_2:
-                score_s=list(data[data.empresas==empresa].score)[0]
+                score_s=list(data[data.empresa==empresa].score)[0]
                 scores.append(score_s)
                 try:
                     porc_s=list(data_inf[data_inf.empresa==empresa]['%_informadas'])[0]
@@ -768,37 +786,32 @@ def update_figure(value_año, tipo):
             data_scores=data_scores.sort_values('rating', ascending=False)
 
             nombre_score='Score'
-            nombre_medio='% variables informadas' 
+            nombre_medio='% informadas' 
             fig = go.Figure()
 
-            fig.add_trace(go.Bar(x=data_scores['empresa'], y=data_scores['rating'], name=nombre_score))
-            fig.add_trace(go.Scatter(x=data_scores['empresa'], y=data_scores['%_informadas'], name=nombre_medio,line=dict(color="crimson")))
+            fig.add_trace(go.Bar(x=data_scores['empresa'], y=data_scores['rating'], name=nombre_score,marker_color='dodgerblue' ))
+            fig.add_trace(go.Scatter(x=data_scores['empresa'], y=data_scores['%_informadas'], name=nombre_medio,line=dict(color='indianred')))
 
             fig.update_layout(
             
             xaxis_title='Año',
             yaxis_title="Score",
-            width=int(500),
-            yaxis_range=[0,100],
-            plot_bgcolor=colors['background'],
-            paper_bgcolor=colors['background'],
-            font_color=colors['text']
+            width=int(800),
+            yaxis_range=[0,105],
+            plot_bgcolor='white'
+ 
                 )
+            fig.update_yaxes(tickvals=[10,20,30,40,50,60,70,80,90,100],gridcolor='lightgrey')
+            fig.update_layout(title_text='Ranking Ibex 35')
             
-            fig.update_layout(transition_duration=500)
-            fig.update_layout(legend=dict(
-            yanchor="top",
-            y=1.20,
-            xanchor="left",
-            x=0.01
-                ))
+            
             return fig
         
         if tipo=='cual':
             scores=[]
             porc=[]
             for empresa in empresa_disponibles_2:
-                score_s=list(data[data.empresas==empresa].score_cualitativo)[0]
+                score_s=list(data[data.empresa==empresa].score_cualitativo)[0]
                 scores.append(score_s)
                 try:
                     porc_s=list(data_inf[data_inf.empresa==empresa]['%_informadas_cualitativas'])[0]
@@ -816,32 +829,25 @@ def update_figure(value_año, tipo):
             data_scores=data_scores.sort_values('rating', ascending=False)
 
             nombre_score='Score'
-            nombre_medio='% variables informadas' 
+            nombre_medio='% informadas' 
+        
             fig = go.Figure()
 
-            fig.add_trace(go.Bar(x=data_scores['empresa'], y=data_scores['rating'], name=nombre_score))
-            fig.add_trace(go.Scatter(x=data_scores['empresa'], y=data_scores['%_informadas'], name=nombre_medio,line=dict(color="crimson")))
+            fig.add_trace(go.Bar(x=data_scores['empresa'], y=data_scores['rating'], name=nombre_score,marker_color='dodgerblue'))
+            fig.add_trace(go.Scatter(x=data_scores['empresa'], y=data_scores['%_informadas'], name=nombre_medio,line=dict(color="indianred")))
 
             fig.update_layout(
             
             xaxis_title='Año',
             yaxis_title="Score",
-            width=int(500),
-            yaxis_range=[0,100],
-            plot_bgcolor=colors['background'],
-            paper_bgcolor=colors['background'],
-            font_color=colors['text']
+            width=int(800),
+            yaxis_range=[0,105],
+            plot_bgcolor='white'
+ 
                 )
-            
-            fig.update_layout(transition_duration=500)
-            fig.update_layout(legend=dict(
-            yanchor="top",
-            y=1.20,
-            xanchor="left",
-            x=0.01
-                ))
+            fig.update_yaxes(tickvals=[10,20,30,40,50,60,70,80,90,100],gridcolor='lightgrey')
+            fig.update_layout(title_text='Ranking Ibex 35')
             return fig
-
 
 if __name__ == '__main__':
     app.run_server(host="0.0.0.0",debug=False, port=8080)
