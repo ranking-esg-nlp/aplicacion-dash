@@ -504,8 +504,8 @@ def update_figure(empresa,tab):
 
 
         fig.add_trace(go.Scatter(x=list(range(0,100)), y=percentiles_clarity,mode='lines', name='clarity',line = dict(color = 'lightblue')))
-        fig.add_trace(go.Scatter(x=list(range(0,100)), y=percentiles_nuestro,mode='lines', name='nuestro',line = dict(color = 'dodgerblue')))
-        fig.add_trace(go.Scatter(x=list(range(0,100)), y=percentiles_nuestro_cual,mode='lines', name='nuestro cual',line = dict(color = 'darkblue')))
+        fig.add_trace(go.Scatter(x=list(range(0,100)), y=percentiles_nuestro,mode='lines', name='Rat. transparencia',line = dict(color = 'dodgerblue')))
+        fig.add_trace(go.Scatter(x=list(range(0,100)), y=percentiles_nuestro_cual,mode='lines', name='Rat. transparencia cual',line = dict(color = 'darkblue')))
         
         fig.add_trace(go.Scatter(x=[percentil_c,percentil_n,percentil_nc], y=[score_c,score_n,score_nc], mode='markers',name=empresa, marker=dict(size=[10,10,10],
                         color=[ 1,1,1])))
